@@ -1,0 +1,2540 @@
+[
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/377/944768.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/377/944768.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c24",
+		"tvmazeId": 11334,
+		"season": 1,
+		"number": 1,
+		"name": "Pilot",
+		"runtime": 90,
+		"airdate": "1990-04-08T00:00:00.000Z",
+		"summary": "<p>The small northwest town of Twin Peaks, Washington is shaken up when the body of the Homecoming Queen, Laura Palmer, is discovered washed up on a riverbank, wrapped in plastic.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.645Z",
+		"updatedAt": "2023-05-17T21:56:16.645Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/378/945603.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/378/945603.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c26",
+		"tvmazeId": 11336,
+		"season": 1,
+		"number": 2,
+		"name": "Traces to Nowhere",
+		"runtime": 60,
+		"airdate": "1990-04-12T00:00:00.000Z",
+		"summary": "<p>Agent Cooper enjoys the comforts of the Great Northern Hotel. Bobby Briggs and Mike Nelson are released from jail. Doctor Hayward hands over the autopsy report on Laura Palmer.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.648Z",
+		"updatedAt": "2023-05-17T21:56:16.648Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/379/949633.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/379/949633.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c28",
+		"tvmazeId": 11337,
+		"season": 1,
+		"number": 3,
+		"name": "Zen, or the Skill to Catch a Killer",
+		"runtime": 60,
+		"airdate": "1990-04-19T00:00:00.000Z",
+		"summary": "<p>Ben Horne's brother, Jerry, arrives in Twin Peaks; together they travel to One Eyed Jack's and meet with the madam, Blackie O'Reilly. Audrey leaves a clue for Cooper. Deputy Hawk finds a bloody towel near the crime scene.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.660Z",
+		"updatedAt": "2023-05-17T21:56:16.660Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/381/953548.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/381/953548.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c2a",
+		"tvmazeId": 11338,
+		"season": 1,
+		"number": 4,
+		"name": "Rest in Pain",
+		"runtime": 60,
+		"airdate": "1990-04-26T00:00:00.000Z",
+		"summary": "<p>Cooper meets with Audrey, who confesses to leaving him the note about One Eyed Jack's. Cooper tells Truman he can't remember who the killer was in his dream, but insists the dream is a code to solving the crime.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.663Z",
+		"updatedAt": "2023-05-17T21:56:16.663Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/955459.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/382/955459.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c2c",
+		"tvmazeId": 11339,
+		"season": 1,
+		"number": 5,
+		"name": "The One-Armed Man",
+		"runtime": 60,
+		"airdate": "1990-05-03T00:00:00.000Z",
+		"summary": "<p>Cooper questions Dr. Jacoby, who suspects Leo Johnson is the killer. Gordon Cole, Cooper's supervisor, calls in with Albert's report. Josie Packard spies on Ben Horne and Catherine Martell. Hawk tracks down the One-Armed Man.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.666Z",
+		"updatedAt": "2023-05-17T21:56:16.666Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/957364.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/382/957364.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c2e",
+		"tvmazeId": 11340,
+		"season": 1,
+		"number": 6,
+		"name": "Cooper's Dreams",
+		"runtime": 60,
+		"airdate": "1990-05-10T00:00:00.000Z",
+		"summary": "<p>Cooper and company have tea with the Log Lady, who tells them there was a third man following after Leo and Jacques the night Laura died. At Jacques Renault's cabin Cooper, Hawk, and Truman find Waldo the bird</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.679Z",
+		"updatedAt": "2023-05-17T21:56:16.679Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/385/963554.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/385/963554.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c30",
+		"tvmazeId": 11341,
+		"season": 1,
+		"number": 7,
+		"name": "Realization Time",
+		"runtime": 60,
+		"airdate": "1990-05-17T00:00:00.000Z",
+		"summary": "<p>Audrey cons her way into working at the perfume counter where Laura worked and discovers that it's being used as a recruitment post for One Eyed Jack's. James, Donna and Maddy plan to lure Jacoby away from his office</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.681Z",
+		"updatedAt": "2023-05-17T21:56:16.681Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/386/965145.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/386/965145.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c32",
+		"tvmazeId": 11342,
+		"season": 1,
+		"number": 8,
+		"name": "The Last Evening",
+		"runtime": 60,
+		"airdate": "1990-05-23T00:00:00.000Z",
+		"summary": "<p>Audrey is hired at One Eyed Jack's, but is caught in a trap when her father arrives. Cooper gets Jacques Renault to reveal the details of Laura's last night in the cabin. Deputy Andy saves Truman's life and apprehends Renault</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.684Z",
+		"updatedAt": "2023-05-17T21:56:16.684Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/399/999465.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/399/999465.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c34",
+		"tvmazeId": 11343,
+		"season": 2,
+		"number": 1,
+		"name": "May the Giant Be with You",
+		"runtime": 120,
+		"airdate": "1990-09-30T00:00:00.000Z",
+		"summary": "<p>A wounded Agent Cooper has a vision of a giant who gives him several clues about the murder of Laura Palmer. Shelly and Pete recover from the mill fire, but Josie and Catherine are missing</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.686Z",
+		"updatedAt": "2023-05-17T21:56:16.686Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/406/1016881.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016881.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c36",
+		"tvmazeId": 11345,
+		"season": 2,
+		"number": 2,
+		"name": "Coma",
+		"runtime": 60,
+		"airdate": "1990-10-06T00:00:00.000Z",
+		"summary": "<p>Albert determines that neither Leo nor Jacques killed Laura, but he is unable to find any leads into who shot Cooper. Cooper says they must find the third man, who he believes to be Bob, the gray-haired man.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.698Z",
+		"updatedAt": "2023-05-17T21:56:16.698Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/418/1047079.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047079.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c38",
+		"tvmazeId": 11346,
+		"season": 2,
+		"number": 3,
+		"name": "The Man Behind the Glass",
+		"runtime": 60,
+		"airdate": "1990-10-13T00:00:00.000Z",
+		"summary": "<p>Ronette is attacked in her hospital bed by an unseen person. Jean Renault, brother of Jacques and Bernard, plans to blackmail Ben Horne for the release of Audrey. Donna meets with Harold Smith, a shut-in who had befriended Laura</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.700Z",
+		"updatedAt": "2023-05-17T21:56:16.700Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/427/1069540.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/427/1069540.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c3a",
+		"tvmazeId": 11347,
+		"season": 2,
+		"number": 4,
+		"name": "Laura's Secret Diary",
+		"runtime": 60,
+		"airdate": "1990-10-20T00:00:00.000Z",
+		"summary": "<p>Leland confesses to killing Jacques Renault. Andy wants to take a new sperm count test. Rumor spreads that a food critic is coming to Twin Peaks. Jean asks Ben to set a trap for Cooper in exchange for Audrey's life.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.702Z",
+		"updatedAt": "2023-05-17T21:56:16.702Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/428/1070321.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/428/1070321.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c3c",
+		"tvmazeId": 11348,
+		"season": 2,
+		"number": 5,
+		"name": "The Orchid's Curse",
+		"runtime": 60,
+		"airdate": "1990-10-27T00:00:00.000Z",
+		"summary": "<p>Cooper remembers the message under his bed. Shelly and Bobby begin Leo's home care. Sternwood hears pretrial motions and declares Leo not fit for trial. Nadine comes home, still thinking she's in high school</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.705Z",
+		"updatedAt": "2023-05-17T21:56:16.705Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1074860.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074860.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c3e",
+		"tvmazeId": 11349,
+		"season": 2,
+		"number": 6,
+		"name": "Demons",
+		"runtime": 60,
+		"airdate": "1990-11-03T00:00:00.000Z",
+		"summary": "<p>James saves the girls from a tormented Harold. Cooper brings Audrey home. Bobby and Shelly learn that their insurance plans have backfired. Donna tries to convince Truman that Harold Smith has Laura's secret diary</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.707Z",
+		"updatedAt": "2023-05-17T21:56:16.707Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/445/1112803.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/445/1112803.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c40",
+		"tvmazeId": 11350,
+		"season": 2,
+		"number": 7,
+		"name": "Lonely Souls",
+		"runtime": 60,
+		"airdate": "1990-11-10T00:00:00.000Z",
+		"summary": "<p>Cooper and the One-Armed Man inspect guests at the Great Northern. Hawk finds Harold Smith dead - with a mysterious suicide note and the diary torn to shreds. Leo speaks to Bobby about \"new shoes.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.709Z",
+		"updatedAt": "2023-05-17T21:56:16.709Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/457/1143634.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/457/1143634.jpg"
+		},
+		"_id": "64654d809bacf8a9cc590c42",
+		"tvmazeId": 11351,
+		"season": 2,
+		"number": 8,
+		"name": "Drive with a Dead Girl",
+		"runtime": 60,
+		"airdate": "1990-11-17T00:00:00.000Z",
+		"summary": "<p>Donna and James wonder why Maddy left so suddenly. Norma's mother arrives with the news that she's married a new man, Ernie Niles. Cooper tells Leland they arrested Ben Horne for Laura's murder.</p>",
+		"type": "regular",
+		"show": "64654d809bacf8a9cc590c21",
+		"createdAt": "2023-05-17T21:56:16.713Z",
+		"updatedAt": "2023-05-17T21:56:16.713Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/83/207633.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/83/207633.jpg"
+		},
+		"_id": "646567dd47b6497d927c06ad",
+		"tvmazeId": 44377,
+		"season": 1,
+		"number": 1,
+		"name": "The Man Trap",
+		"runtime": 60,
+		"airdate": "1966-09-08T00:00:00.000Z",
+		"summary": "<p>Professor Robert Crater and his wife Nancy are archeologists, investigating the ruins of a civilization on M-113. <i>Enterprise</i> visits for the annual physical examination required by regulations, but the professor seems oddly reluctant. He insists all he and his wife need is salt to cope with the heat. Then Crewman Green dies, his face marked by odd red rings. Crater says he ate the <i>borgia plant</i> which contains toxic chemicals. But its symptoms do not include the red mottling. Kirk and Spock are determined to discover what's going on, and doubly so when a crewman on the ship dies the same way as Green.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.113Z",
+		"updatedAt": "2023-05-17T23:48:45.113Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/143/358555.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/143/358555.jpg"
+		},
+		"_id": "646567dd47b6497d927c06af",
+		"tvmazeId": 44378,
+		"season": 1,
+		"number": 2,
+		"name": "Charlie X",
+		"runtime": 60,
+		"airdate": "1966-09-15T00:00:00.000Z",
+		"summary": "<p>A small ship, the <i>Antares</i>, transfers a passenger to <i>Enterprise</i>. He is Charles Evans, recently recovered from the lifeless planet Thasus, having survived there since he was marooned by the crash that killed his parents. Oddness seems to accompany Charlie. <i>Antares</i> calls, with a warning her captain does not finish delivering before his ship explodes. Soon enough it becomes clear that Charlie is a young man of extraordinary powers, able to cause things to happen merely by willing them to. Kirk must regain control of his ship from a troubled, dangerously powerful teenager.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.116Z",
+		"updatedAt": "2023-05-17T23:48:45.116Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/287327.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/114/287327.jpg"
+		},
+		"_id": "646567dd47b6497d927c06b1",
+		"tvmazeId": 44379,
+		"season": 1,
+		"number": 3,
+		"name": "Where No Man Has Gone Before",
+		"runtime": 60,
+		"airdate": "1966-09-22T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> recovers the pitted and burned emergency buoy from the wreckage of <i>Valiant</i> which penetrated the odd energy barrier that surrounds the galaxy. Garbled recordings suggest odd consequences of that journey, and even that <i>Valiant's</i> own captain ordered her destruction. <i>Enterprise</i> also visits the barrier, and it has odd effects on certain members of the crew with high esper ratings. One in particular, Kirk's friend Gary Mitchell, appears to have developed nearly godlike mental and physical abilities, and lost his moral compass as well. Now Kirk must discover how to stop - and maybe kill - his old friend before that becomes impossible, and Mitchell goes on to conquer the Federation!<br></p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.119Z",
+		"updatedAt": "2023-05-17T23:48:45.119Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/95/238400.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/95/238400.jpg"
+		},
+		"_id": "646567dd47b6497d927c06b3",
+		"tvmazeId": 44380,
+		"season": 1,
+		"number": 4,
+		"name": "The Naked Time",
+		"runtime": 60,
+		"airdate": "1966-09-29T00:00:00.000Z",
+		"summary": "<p>Psi-2000 is a lifeless, frozen world in the final stages of planetary disintegration, an invaluable opportunity for scientific study. But the enter scientific outpost complement is dead, apparently by violence. And soon enough, an odd intoxication of similar nature begins sweeping through <i>Enterprise</i>, threatening all of the crew and even the ship itself, as intoxicated crewmen lose all sense of duty and purpose. Worse, McCoy's investigations reveal no causative agent, limiting his ability to treat those affected.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.121Z",
+		"updatedAt": "2023-05-17T23:48:45.121Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/121/302581.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/121/302581.jpg"
+		},
+		"_id": "646567dd47b6497d927c06b5",
+		"tvmazeId": 44381,
+		"season": 1,
+		"number": 5,
+		"name": "The Enemy Within",
+		"runtime": 60,
+		"airdate": "1966-10-06T00:00:00.000Z",
+		"summary": "<p>An odd, yellowish ore with magnetic properties on a crewman's clothing affects the transporter, and when Kirk is subsequently beamed up, he is split into two \"halves\". One half of him possesses his benevolent qualities, but is indecisive. The other possesses his malevolent qualities, but is afraid. At first the crew is unaware of the problem, and Kirk's reputation suffers. Then they realize what has happened, and that the transporter is useless - just when they need to bring back the remaining planetary expedition before the sub-zero night kills them! And they must discover how to \"reassemble\" the captain when it becomes clear that neither half can survive for long without the other.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.122Z",
+		"updatedAt": "2023-05-17T23:48:45.122Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/287088.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/114/287088.jpg"
+		},
+		"_id": "646567dd47b6497d927c06b7",
+		"tvmazeId": 44382,
+		"season": 1,
+		"number": 6,
+		"name": "Mudd's Women",
+		"runtime": 60,
+		"airdate": "1966-10-13T00:00:00.000Z",
+		"summary": "<p>The <i>Enterprise</i> recovers Harcourt Fenton Mudd from within an asteroid belt. His crew is also his cargo - wives for settlers on Ophiuchus III. These women are very beautiful, and have oddly compulsive effects on the male crewmembers. Having burned out most of her dilithium crystals protecting Mudd's ship, Kirk detours to a Rigel mining colony to secure more. But Mudd's women secure a communicator for him, enabling him to strike his own deal with chief miner Ben Childress and his associates. To obtain the crystals, Kirk must bring down Mudd's women, and must agree to dismiss charges against Mudd. Added to the mix is that the women may not be all they appear to be...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.145Z",
+		"updatedAt": "2023-05-17T23:48:45.145Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/104/262043.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/104/262043.jpg"
+		},
+		"_id": "646567dd47b6497d927c06b9",
+		"tvmazeId": 44383,
+		"season": 1,
+		"number": 7,
+		"name": "What Are Little Girls Made of?",
+		"runtime": 60,
+		"airdate": "1966-10-20T00:00:00.000Z",
+		"summary": "<p>Roger Korby, described as the \"Pasteur of archaeological medicine\" has built a reputation recovering the knowledge of dead alien civilizations, until five years ago when his entire expedition was lost on the frozen world Exo III. Or was it? When <i>Enterprise</i> assumes orbit, someone using Korby's voice responds to their hails. It seems Korby discovered that the civilization of Exo fled their ice age by going underground. He has uncovered some of their science, including their machinery for producing hardy androids - and for transferring a consciousness into such a machine. And he has plans for that technology. Ambitions, sinister plans...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.147Z",
+		"updatedAt": "2023-05-17T23:48:45.147Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/117/292736.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/117/292736.jpg"
+		},
+		"_id": "646567dd47b6497d927c06bb",
+		"tvmazeId": 44384,
+		"season": 1,
+		"number": 8,
+		"name": "Miri",
+		"runtime": 60,
+		"airdate": "1966-10-27T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> discovers a planet identical to Earth, with a very important exception: a few centuries earlier, a devasting plague struck. All of the adults were killed, but the children somehow survived - and still survive, hundreds of years later, feral and deeply distrustful of \"grups\". And there are monsters: insane, covered with scab-like plaques, they attack on sight. The disease is still active; the plaques appear on the landing party. If McCoy cannot discover a cure in the week they have left, all will die. Even Spock, now a carrier, cannot return to the ship.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.149Z",
+		"updatedAt": "2023-05-17T23:48:45.149Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/134/337195.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/134/337195.jpg"
+		},
+		"_id": "646567dd47b6497d927c06bd",
+		"tvmazeId": 44385,
+		"season": 1,
+		"number": 9,
+		"name": "Dagger of the Mind",
+		"runtime": 60,
+		"airdate": "1966-11-03T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> stops at the Tantalus penal colony to deliver drugs and collect research materials. Except that the research materials box contains a dangerous madman, Simon van Gelder - the former <i>director</i> of the colony. Kirk and psychiatrist Helen Noel beam down to speak with Tristan Adams, to learn what happened to van Gelder. It seems Dr. van Gelder was the victim of a new device, a neural neutralizer. But was what happened really an accident, or something more sinister?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.151Z",
+		"updatedAt": "2023-05-17T23:48:45.151Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/410/1026912.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/410/1026912.jpg"
+		},
+		"_id": "646567dd47b6497d927c06bf",
+		"tvmazeId": 44386,
+		"season": 1,
+		"number": 10,
+		"name": "The Corbomite Maneuver",
+		"runtime": 60,
+		"airdate": "1966-11-10T00:00:00.000Z",
+		"summary": "<p>Mapping star systems, <i>Enterprise</i> encounters an odd cube. Apparently solid, it senses the ship, moves to block it - and when <i>Enterprise</i> attempts to disengage, pursues while emitting dangerous radiation. Kirk is forced to order its destruction. He probes farther, to find the builders of the device. And he does, when the <i>Fesarius</i> appears. The immense flag ship of the First Federation and her captain, the enigmatic Balok, regard the destruction of the cube as an aggressive act, and determine that the crew will be imprisoned and the ship destroyed.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.154Z",
+		"updatedAt": "2023-05-17T23:48:45.154Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/144/361471.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/144/361471.jpg"
+		},
+		"_id": "646567dd47b6497d927c06c1",
+		"tvmazeId": 44387,
+		"season": 1,
+		"number": 11,
+		"name": "The Menagerie Part I",
+		"runtime": 60,
+		"airdate": "1966-11-17T00:00:00.000Z",
+		"summary": "<p>Spock diverts the<i> Enterprise</i> to Starbase 11, where Kirk discovers that Spock's former commander, Christopher Pike, has been seriously injured and disabled by exposure to delta rays, experienced while saving a class of cadets. Pike is now confined to an elaborate life support apparatus. Spock abducts Pike and locks the <i>Enterprise</i> on a course for Talos IV, the only planet subject to General Order 7: visiting the world is a capital crime. Spock refuses to explain his actions, but demands a court martial, during which he presents evidence of an earlier visit. War, thousands of centuries ago, devastated the planet, and it was only now becoming able to support life again. Its inhabitants, forced underground, had developed enormous mental powers, including the ability to place illusions within the minds of others. Their plan was to breed a race of slaves to help them reclaim their world, as they were fragile and their civilization degenerate: illusions had proved a kind of narcotic. To this end, they kidnapped Captain Pike years ago...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.177Z",
+		"updatedAt": "2023-05-17T23:48:45.177Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/144/361472.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/144/361472.jpg"
+		},
+		"_id": "646567dd47b6497d927c06c3",
+		"tvmazeId": 44388,
+		"season": 1,
+		"number": 12,
+		"name": "The Menagerie Part II",
+		"runtime": 60,
+		"airdate": "1966-11-24T00:00:00.000Z",
+		"summary": "<p>As the court martial continues, Kirk learns the Talosians meant to breed Pike with an earlier survivor, Vina, to produce their slave race. But Pike convinces them that Earthmen would prefer death to such slavery, however pleasant illusions could make it. Humans were the Talosians last chance, but Pike convinces them to release him. Finally, as they orbit Talos, Kirk learns why Spock violated General Order 7: here, in his illusory world, Pike can live out his remaining years as the man he once was. The Talosians agree to this, and the Federation suspends General Order 7 due to the circumstances.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.179Z",
+		"updatedAt": "2023-05-17T23:48:45.179Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/143/358559.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/143/358559.jpg"
+		},
+		"_id": "646567dd47b6497d927c06c5",
+		"tvmazeId": 44389,
+		"season": 1,
+		"number": 13,
+		"name": "The Conscience of the King",
+		"runtime": 60,
+		"airdate": "1966-12-08T00:00:00.000Z",
+		"summary": "<p>Dr. Leighton calls <i>Enterprise</i> to his home on Planet Q with the promise of a new food source that could end hunger. But this is a ruse: Leighton is one of the few remaining survivors of Kodos the Executioner, who used a planetary famine to apply his own ideas of eugenics on Tarsus IV years earlier. A burned body convinced authorities that Kodos had died then, but Leighton is certain that actor Anton Karidian is Kodos. Kirk is less than amused at the deception - and then someone murders Leighton. It's not enough to accuse, but it is enough for suspicion, so Kirk arranges to strand the acting troupe, and then offers them a ride on <i>Enterprise</i> where he hopes to ascertain whether Leighton's accusation is true.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.181Z",
+		"updatedAt": "2023-05-17T23:48:45.181Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/122/305333.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/122/305333.jpg"
+		},
+		"_id": "646567dd47b6497d927c06c7",
+		"tvmazeId": 44390,
+		"season": 1,
+		"number": 14,
+		"name": "Balance of Terror",
+		"runtime": 60,
+		"airdate": "1966-12-15T00:00:00.000Z",
+		"summary": "<p>The <i>Enterprise </i>tries to intercept a Romulan warship that is testing the Federation's defenses along the Neutral Zone separating the two.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.183Z",
+		"updatedAt": "2023-05-17T23:48:45.183Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/85/214190.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/85/214190.jpg"
+		},
+		"_id": "646567dd47b6497d927c06c9",
+		"tvmazeId": 44391,
+		"season": 1,
+		"number": 15,
+		"name": "Shore Leave",
+		"runtime": 60,
+		"airdate": "1966-12-29T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> visits an idyllic planet, where McCoy encounters a large white rabbit that is \"very late\". And shortly afterwards, a little girl who is following him. McCoy isn't becoming insane; it soon becomes apparent that thinking about a thing will cause it to materialize, as everyone encounters people and things from their past or their fantasies. But something on the planet's surface is draining power from <i>Enterprise</i>. And then McCoy, convinced that what he sees is a harmless illusion, confronts a charging knight - and dies, pierced through the heart! What kind of odd world is this, and how can the ship and crew escape it?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.185Z",
+		"updatedAt": "2023-05-17T23:48:45.185Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/96/240070.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/96/240070.jpg"
+		},
+		"_id": "646567dd47b6497d927c06cb",
+		"tvmazeId": 44392,
+		"season": 1,
+		"number": 16,
+		"name": "The Galileo Seven",
+		"runtime": 60,
+		"airdate": "1967-01-05T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> is en route to the New Paris colony to deliver much needed medical supplies, needed to counter a plague. It passes Murasaki 312, a quasar-like system. Since there is time, Kirk's standing orders require him to dispatch a scientific team to study the phenomenon. The expedition immediately runs into trouble, pulled of course and forced to an emergency landing on Taurus II, then beset by the hulking, homicidal natives of that planet. Can Spock's purely logical approach to leadership save the expedition and reunite its members with <i>Enterprise</i>?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.186Z",
+		"updatedAt": "2023-05-17T23:48:45.186Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/92/230184.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/92/230184.jpg"
+		},
+		"_id": "646567dd47b6497d927c06cd",
+		"tvmazeId": 44393,
+		"season": 1,
+		"number": 17,
+		"name": "The Squire of Gothos",
+		"runtime": 60,
+		"airdate": "1967-01-12T00:00:00.000Z",
+		"summary": "<p>Within a \"star desert\" the crew encounter the odd, storm-wracked planet Gothos. Then Kirk and Sulu disappear from the bridge. The planet's sole inhabitant is the foppish Trelane, who lives in a manor house be believes represents modern Earth, but which is actually centuries out of date. He has plans for the crew, and the power to ensure that he gets what he wants. Kirk manages to thwart him, but it's only temporary: Trelane moves Gothos itself to intercept the fleeing starship! Against that kind of power, Kirk will need all his wits...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.188Z",
+		"updatedAt": "2023-05-17T23:48:45.188Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/427/1068287.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/427/1068287.jpg"
+		},
+		"_id": "646567dd47b6497d927c06cf",
+		"tvmazeId": 44394,
+		"season": 1,
+		"number": 18,
+		"name": "Arena",
+		"runtime": 60,
+		"airdate": "1967-01-19T00:00:00.000Z",
+		"summary": "<p>Enterprise stops at Cestus III, there to visit Commodore Travers, who enthusiastically invites Kirk to bring his key people to the surface. Beaming down, Kirk discovers the outpost has been destroyed! The landing party comes under attack, but Kirk and Spock recover a powerful ballistic weapon and strike back. The aliens flee, with Enterprise in hot pursuit, into an unknown region of space. There, both ships are paralyzed by an \"unidentifiable power\" from the distant star system of the Metrons, and both captains are transported to a world where they may engage in hand to hand combat to determine the fate of their respective ships. But is that the whole story?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.190Z",
+		"updatedAt": "2023-05-17T23:48:45.190Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/94/237361.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237361.jpg"
+		},
+		"_id": "646567dd47b6497d927c06d1",
+		"tvmazeId": 44395,
+		"season": 1,
+		"number": 19,
+		"name": "Tomorrow Is Yesterday",
+		"runtime": 60,
+		"airdate": "1967-01-26T00:00:00.000Z",
+		"summary": "<p>A \"black star\" slingshots Enterprise back in time, to the 1960s, in Earth orbit. She appears almost directly above a military base, which draws all sorts of unwelcome attention. The base dispatches Major John Christopher to look. Enterprise attempts to keep him at bay with the tractor beam, but his aircraft is too fragile to withstand the beam and disintegrates, forcing Enterprise to beam Christopher aboard. Now they have disrupted history. Christopher himself is not historically significant, but his son is. He must be returned, but how?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.191Z",
+		"updatedAt": "2023-05-17T23:48:45.191Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/143/358561.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/143/358561.jpg"
+		},
+		"_id": "646567dd47b6497d927c06d3",
+		"tvmazeId": 44396,
+		"season": 1,
+		"number": 20,
+		"name": "Court Martial",
+		"runtime": 60,
+		"airdate": "1967-02-02T00:00:00.000Z",
+		"summary": "<p>Enterprise encounters an ion storm, which requires an observer in the ion pod. Top of the duty roster is Commander Ben Finney, who is tragically lost when Kirk must eject the pod as part of the Red Alert protocol. At the starbase, Commodore Stone discovers that the computer records tell a different story: that Kirk ejected the ion pod during Yellow Alert, and that if he had waited properly, Finney might still be alive. He offers Kirk a chance to resign his commission \"for the good of the service\", but Kirk refuses - and so draws a general court martial. His advocate? The quirky Samuel Cogley, who eschews his computer in favor of books.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.192Z",
+		"updatedAt": "2023-05-17T23:48:45.192Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/96/240089.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/96/240089.jpg"
+		},
+		"_id": "646567dd47b6497d927c06d5",
+		"tvmazeId": 44397,
+		"season": 1,
+		"number": 21,
+		"name": "The Return of the Archons",
+		"runtime": 60,
+		"airdate": "1967-02-09T00:00:00.000Z",
+		"summary": "<p>Six thousand years ago, the planet Beta III was torn apart by war, crime, and corruption. Then a visionary leader arose, Landru, who became a benevolent autocrat. He has maintained a simple, stable society that has survived since then without those \"ancient evils\". Enterprise is there to investigate the disappearance of the starship Archon in the vicinity a century earlier. It seems that Landru dislikes those who display individuality; they must be absorbed into \"The Body\" or destroyed. So it was with the \"Archons\" and so it will be with the Enterprise unless Kirk can defeat Landru. But will unseating him destabilize the society? Will it be a violation of the Prime Directive?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.204Z",
+		"updatedAt": "2023-05-17T23:48:45.204Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/95/237953.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/95/237953.jpg"
+		},
+		"_id": "646567dd47b6497d927c06d7",
+		"tvmazeId": 44398,
+		"season": 1,
+		"number": 22,
+		"name": "Space Seed",
+		"runtime": 60,
+		"airdate": "1967-02-16T00:00:00.000Z",
+		"summary": "<p>The Enterprise chances across a DY-100 class ship, launched from Earth \"in the 1990s\". It carries around seventy people, who have been hibernating since their launch. The ship's systems revive the leader, whom Kirk soon learns is Khan Noonien Singh, the leader of a group of genetically enhanced \"supermen\" who nearly took control of Earth during the Eugenics Wars. They have essentially fled to the future, and with their capabilities, Khan plans to revive his campaign to place \"superior\" men in positions of leadership.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.205Z",
+		"updatedAt": "2023-05-17T23:48:45.205Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/95/237954.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/95/237954.jpg"
+		},
+		"_id": "646567dd47b6497d927c06d9",
+		"tvmazeId": 44399,
+		"season": 1,
+		"number": 23,
+		"name": "A Taste of Armageddon",
+		"runtime": 60,
+		"airdate": "1967-02-23T00:00:00.000Z",
+		"summary": "<p>Kirk and the Enterprise have been sent to establish diplomatic relations with the planet Eminiar VII, a planet that decidedly does not wish such relations! But Ambassador Fox insists they make the attempt. Planetside, they learn Eminiar has been fighting a war with Vendikar, another planet in the same system, for five hundred years - a war fought entirely by computers, with casualties required to report to disintegration machines for tidy disposal. And the Enterprise has been declared a casualty of a \"tricobalt satellite explosion\"; her crew must likewise report for disintegration so their deaths may be recorded and reported to Vendikar.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.206Z",
+		"updatedAt": "2023-05-17T23:48:45.206Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/95/237955.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/95/237955.jpg"
+		},
+		"_id": "646567dd47b6497d927c06db",
+		"tvmazeId": 44400,
+		"season": 1,
+		"number": 24,
+		"name": "This Side of Paradise",
+		"runtime": 60,
+		"airdate": "1967-03-02T00:00:00.000Z",
+		"summary": "<p>The Federation established a colony on Omicron Ceti III before it knew that the system's star emitted Berthold Rays, which degrade animal tissue. Tolerable for short periods with precautions, these rays spelled doom for the colony. So how are they still alive, and in better health than when they left Federation space? And perhaps more importantly, why have they accomplished... nothing? The answer threatens the Enterprise...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.208Z",
+		"updatedAt": "2023-05-17T23:48:45.208Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1072871.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1072871.jpg"
+		},
+		"_id": "646567dd47b6497d927c06dd",
+		"tvmazeId": 44401,
+		"season": 1,
+		"number": 25,
+		"name": "The Devil in the Dark",
+		"runtime": 60,
+		"airdate": "1967-03-09T00:00:00.000Z",
+		"summary": "<p>Miners on the mineral rich world of Janus II have begun to die horribly, burned to a crisp by the effects of a powerful corrosive. The Federation depends on these mines to supply minerals to many other worlds, so it sends Kirk and the Enterprise to investigate. But a starship, as one miner acerbically comments, cannot enter the mining tunnels. Kirk and Spock will have to use their wits to solve this problem. And they'll have to do it quickly, since the same agency has sabotaged the antique pergium reactor that maintains life support.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.210Z",
+		"updatedAt": "2023-05-17T23:48:45.210Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1073665.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1073665.jpg"
+		},
+		"_id": "646567dd47b6497d927c06df",
+		"tvmazeId": 44402,
+		"season": 1,
+		"number": 26,
+		"name": "Errand of Mercy",
+		"runtime": 60,
+		"airdate": "1967-03-23T00:00:00.000Z",
+		"summary": "<p>Kirk and Spock transport to the planet Organia, a pastoral realm of very low technology, which has the misfortune of being strategically important to the Klingons, who plan to use Organia as a forward base when they war on the Federation. Despite Kirk's best efforts, he cannot seem to impress upon the Organians that they are in dire peril and should ally with the Federation. Then the Klingons arrive, and being imposing martial law, and taking and executing hostages. Kirk works behind the scenes to interfere, but when the Organians betray him to the Klingons, he starts to wonder if they are worth protecting.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.212Z",
+		"updatedAt": "2023-05-17T23:48:45.212Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1074336.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074336.jpg"
+		},
+		"_id": "646567dd47b6497d927c06e1",
+		"tvmazeId": 44403,
+		"season": 1,
+		"number": 27,
+		"name": "The Alternative Factor",
+		"runtime": 60,
+		"airdate": "1967-03-30T00:00:00.000Z",
+		"summary": "<p>An alien named Lazarus is somehow responsible for a kind of \"winking out\" effect - all of reality seems on the verge of collapse. He is fleeing a monster whose intent is nothing less than the destruction of reality. But through a mishap, Kirk is transported to the home of that monster. And he looks exactly like Lazarus! Kirk must decide which of them - if either - is the monster. If he guesses wrong, it's the end of everything.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.213Z",
+		"updatedAt": "2023-05-17T23:48:45.213Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1074627.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074627.jpg"
+		},
+		"_id": "646567dd47b6497d927c06e3",
+		"tvmazeId": 44404,
+		"season": 1,
+		"number": 28,
+		"name": "The City on the Edge of Forever",
+		"runtime": 60,
+		"airdate": "1967-04-06T00:00:00.000Z",
+		"summary": "<p>Ripples in time have provoked the curiosity of the Enterprise crew. One such ripple shakes the ship and gravely injures Sulu. McCoy brings him back from the brink with a powerful drug, but another ripple results in a tragic overdose, afflicting McCoy with dangerous paranoia! He beams down to the planet - the transporter was locked onto the source of the time disturbances. On the surface, he evades the landing party long enough to flee - into the past, where his psychosis results in him somehow erasing the Federation, and the Enterprise, save only the landing party. Their one chance is to use the same artifact - the self-styled Guardian of Forever - to arrive <i>before</i> McCoy and prevent him from changing their history.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.215Z",
+		"updatedAt": "2023-05-17T23:48:45.215Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/429/1074995.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074995.jpg"
+		},
+		"_id": "646567dd47b6497d927c06e5",
+		"tvmazeId": 44405,
+		"season": 1,
+		"number": 29,
+		"name": "Operation: Annihilate!",
+		"runtime": 60,
+		"airdate": "1967-04-13T00:00:00.000Z",
+		"summary": "<p>Approaching the planet Deneva, the Enterprise encounters a private spacecraft whose pilot is flying desperately into the sun, the apparent act of a lunatic. Spock reveals disturbing news: a pattern of mass insanity that has spread across the galaxy in a nearly straight line, the current end of which is Deneva. The landing party discovers the horrifying truth - and one of them becomes its victim. Now the crew must devise a cure before Spock dies, or is driven hopelessly insane.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.217Z",
+		"updatedAt": "2023-05-17T23:48:45.217Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/430/1075325.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1075325.jpg"
+		},
+		"_id": "646567dd47b6497d927c06e7",
+		"tvmazeId": 44406,
+		"season": 2,
+		"number": 1,
+		"name": "Amok Time",
+		"runtime": 60,
+		"airdate": "1967-09-15T00:00:00.000Z",
+		"summary": "<p>Spock is becoming increasing irrational, even threatening to break McCoy's neck! He can't or won't explain this behavior to Kirk, only asking to return to Vulcan. It's a request Kirk cannot grant, given the <i>Enterprise's</i> other business. Until McCoy tells him if Spock continues to deteriorate, he will die in days! Kirk makes the decision to take his friend back to his home world, where he learns that Spock's problem has to do with marriage...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.219Z",
+		"updatedAt": "2023-05-17T23:48:45.219Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/430/1075877.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1075877.jpg"
+		},
+		"_id": "646567dd47b6497d927c06e9",
+		"tvmazeId": 44407,
+		"season": 2,
+		"number": 2,
+		"name": "Who Mourns for Adonais?",
+		"runtime": 60,
+		"airdate": "1967-09-22T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> nears the planet Pollux IV, when an immense humanoid hand appears and seizes the ship! It is not actually living tissue, but a complex field of energy. And it belongs to a being who claims that he and his kind visited Earth long ago, and were then revered as gods - in this particular case, the Greek god Apollo. His request is a simple one: the crew of the <i>Enterprise</i> will depart the ship and establish a colony of worshippers. Of course, Kirk has no intention of doing this; he must make \"Apollo\" understand that humans have moved past him.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.221Z",
+		"updatedAt": "2023-05-17T23:48:45.221Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/430/1076724.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1076724.jpg"
+		},
+		"_id": "646567dd47b6497d927c06eb",
+		"tvmazeId": 44408,
+		"season": 2,
+		"number": 3,
+		"name": "The Changeling",
+		"runtime": 60,
+		"airdate": "1967-09-29T00:00:00.000Z",
+		"summary": "<p>A space probe of immense power and sophisticated technology has apparently annihilated the entire Malurian civilization, and now threatens <i>Enterprise</i>. But when Kirk hails it, the attacks cease and it allows itself to come aboard. Soon enough, the reason for its forebearance is revealed: it mistakening believes Kirk is its creator, Jackson Roykirk. This probe is <i>Nomad</i>, launched from Earth long ago. But its technology is far beyond what was understood then; beyond even what the modern Federation is capable of. What happened to <i>Nomad</i>, and why does it destroy whole civilizations?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.222Z",
+		"updatedAt": "2023-05-17T23:48:45.222Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/430/1077219.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1077219.jpg"
+		},
+		"_id": "646567dd47b6497d927c06ed",
+		"tvmazeId": 44409,
+		"season": 2,
+		"number": 4,
+		"name": "Mirror, Mirror",
+		"runtime": 60,
+		"airdate": "1967-10-06T00:00:00.000Z",
+		"summary": "<p>The Halkans are a people deeply committed to peace. Kirk is trying to negotiate with them for dilithium, the rare mineral that's needed for warp power systems. But if there is even a chance their crystals will be used for violence, they cannot agree. Kirk beams back to his ship as a magnetic storm approaches - but the ship where he materializes is vastly different, run by savage opportunists, sadists, and killers. This ship, part of an Empire, will wipe the Halkans from their world and seize their crystals. Kirk must find a way to prevent that, and to return himself and his landing party home.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.224Z",
+		"updatedAt": "2023-05-17T23:48:45.224Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/431/1078602.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/431/1078602.jpg"
+		},
+		"_id": "646567dd47b6497d927c06ef",
+		"tvmazeId": 44410,
+		"season": 2,
+		"number": 5,
+		"name": "The Apple",
+		"runtime": 60,
+		"airdate": "1967-10-13T00:00:00.000Z",
+		"summary": "<p>Gamma Trianguli VI is a peaceful planet with abundant plant life. It seems a paradise, but the landing party soon feels the thorns: poisonous plants, killer storms, and explosive rocks all claim lives. Eventually, they discover a small community of primitive people who serve the mysterious Vaal, an immense statue, chiefly by feeding it when it demands this. These people live immensely long lives, and do not age or procreate unless there is an accident. Theirs is a stagnant society, and into the bargain Vaal apparently has the means to attack the<i> Enterprise</i>...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.225Z",
+		"updatedAt": "2023-05-17T23:48:45.225Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/431/1079512.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079512.jpg"
+		},
+		"_id": "646567dd47b6497d927c06f1",
+		"tvmazeId": 44411,
+		"season": 2,
+		"number": 6,
+		"name": "The Doomsday Machine",
+		"runtime": 60,
+		"airdate": "1967-10-20T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> discovers the wreck of <i>Constellation</i>, a sister ship. The only survivor is Matt Decker, the Captain. He reports beaming his crew down to the fourth planet - except that there is no fourth planet! He investigated an odd occurrence: a planet apparently disintegrating, and discovered an immense space vessel cutting the planet apart with an antiproton beam, and digesting the pieces! This machine came from outside the galaxy, a relic of a devastating war fought long ago and far away. It will carve a path of destroyed solar systems through the most populous part of the Milky Way unless Kirk and his crew can stop it.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.228Z",
+		"updatedAt": "2023-05-17T23:48:45.228Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/432/1081831.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081831.jpg"
+		},
+		"_id": "646567dd47b6497d927c06f3",
+		"tvmazeId": 44412,
+		"season": 2,
+		"number": 7,
+		"name": "Catspaw",
+		"runtime": 60,
+		"airdate": "1967-10-27T00:00:00.000Z",
+		"summary": "<p>Sulu, Scotty and Jackson explore Pyrus VII, and then Jackson calls the ship, \"one to beam up\". He materializes dead, and a sepulchral voice threatens Kirk, saying his ship is cursed! Beaming down, Kirk discovers his men enslaved by strange aliens, who have created a Gothic castle and other artifacts straight from Halloween. But their power and threat are real - they are from a place so alien, that the sensations of this universe are intoxicating. If not stopped, they pose a grave threat to the Federation.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.230Z",
+		"updatedAt": "2023-05-17T23:48:45.230Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/433/1082865.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1082865.jpg"
+		},
+		"_id": "646567dd47b6497d927c06f5",
+		"tvmazeId": 44413,
+		"season": 2,
+		"number": 8,
+		"name": "I, Mudd",
+		"runtime": 60,
+		"airdate": "1967-11-03T00:00:00.000Z",
+		"summary": "<p>Mr. Norman is a new crewmember whom McCoy finds off-putting. He acts like a Vulcan, which is odd in a human. There's a good reason: Mr. Norman is not human. He is one of a collection of androids sent to hijack <i>Enterprise</i> by Kirk's old adversary, Harcourt Fenton Mudd! Mudd has plans for the starship, grand plans. And so do the androids.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.231Z",
+		"updatedAt": "2023-05-17T23:48:45.231Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/434/1087490.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1087490.jpg"
+		},
+		"_id": "646567dd47b6497d927c06f7",
+		"tvmazeId": 44414,
+		"season": 2,
+		"number": 9,
+		"name": "Metamorphosis",
+		"runtime": 60,
+		"airdate": "1967-11-10T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> sends a shuttlecraft to retrieve Federation Commissioner Nancy Hedford, who suffers from Sakuro's Disease, so that she may be treated. The craft is pulled off course and lands on a small planetoid, where the crew discover the systems will not work. They also discover a man, apparently living alone there - or, is he? He seems to from time to time commune with an energy cloud, the alien being responsible for forcing the shuttlecraft down. It means for the crew to serve as companions for the man - forever.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.233Z",
+		"updatedAt": "2023-05-17T23:48:45.233Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/436/1091200.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1091200.jpg"
+		},
+		"_id": "646567dd47b6497d927c06f9",
+		"tvmazeId": 44415,
+		"season": 2,
+		"number": 10,
+		"name": "Journey to Babel",
+		"runtime": 60,
+		"airdate": "1967-11-17T00:00:00.000Z",
+		"summary": "<p>A large diplomatic conference will take place on Babel, to discuss the contentious issue of whether to admit Corridan to the Federation. Delegates are divided, and some of their motives are less than pure. Among these delegates is Sarek of Vulcan - Spock's estranged father. Add a mysterious challenging spacecraft and a murderer aboard the <i>Enterprise</i>, and Kirk has his hands full. Then Kirk himself is stabbed, leaving him seriously injured at the very moment when Spock is due to donate blood so that McCoy can operate on Vulcan ambassador Sarek's damaged heart. The key to solving this puzzle will require deducing which of the many factions is willing to go to violent lengths to sabotage this conference.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.234Z",
+		"updatedAt": "2023-05-17T23:48:45.234Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/144/361476.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/144/361476.jpg"
+		},
+		"_id": "646567dd47b6497d927c06fb",
+		"tvmazeId": 44416,
+		"season": 2,
+		"number": 11,
+		"name": "Friday's Child",
+		"runtime": 60,
+		"airdate": "1967-12-01T00:00:00.000Z",
+		"summary": "<p>The Federation sends Kirk to negotiate for mining rights with Aka'ar, Te'er of the Ten Tribes of Capella IV. Capella IV has deposits of the rare mineral topaline, needed for life support systems. The Klingons need this mineral, too, and their presence creates tension further complicated by conflict among the members of the tribe. Ma'ab murders Aka'ar and becomes the new Te'er, and he has a decidedly different attitude that favors the Klingonm perspective. Worse, Kirk and McCoy will not stand by while he murders Ele'en, the pregnant wife of the old Te'er, despite this being Capellan tradition. Soon enough, the Federation party is running for the hills - literally - with Capellans and a Klingon in pursuit.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.236Z",
+		"updatedAt": "2023-05-17T23:48:45.236Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/144/361477.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/144/361477.jpg"
+		},
+		"_id": "646567dd47b6497d927c06fd",
+		"tvmazeId": 44417,
+		"season": 2,
+		"number": 12,
+		"name": "The Deadly Years",
+		"runtime": 60,
+		"airdate": "1967-12-08T00:00:00.000Z",
+		"summary": "<p><i>Enterprise </i>discovers the scientists on Gamma Hydra IV are all either dead or dying of old age, despite the fact that the oldest was around thirty! Matters get worse when the landing party begins to show signs of aging, all except for Chekov, who is mysteriously unaffected. Eventually, Kirk must be relieved of command, and as Spock and Scotty are both affected, Commodore Stocker assumes command. But Stocker has been a desk officer his entire career; he has no field experience, which leads him to make a desperate, wrong decision...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.238Z",
+		"updatedAt": "2023-05-17T23:48:45.238Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/437/1094690.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/437/1094690.jpg"
+		},
+		"_id": "646567dd47b6497d927c06ff",
+		"tvmazeId": 44418,
+		"season": 2,
+		"number": 13,
+		"name": "Obsession",
+		"runtime": 60,
+		"airdate": "1967-12-15T00:00:00.000Z",
+		"summary": "<p>On an obscure planet, Kirk smells something that reminds him of the past. And then two crewman die, their ghastly pallor betraying the fact that every red blood cell in their bodies has been destroyed, the hemoglobin neatly removed. A long time ago, very far from here, Kirk was a young Lieutenant about the <i>Farragut</i> when that ship encountered the cause: a mysterious, gaseous cloud that feeds on blood. Now, Kirk is obsessed with destroying the monster that killed his then mentor, the <i>Farragut's</i> captain Garrovik. Perhaps to an unhealthy degree. Or, given what Spock discovers, perhaps not.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.239Z",
+		"updatedAt": "2023-05-17T23:48:45.239Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/438/1095323.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/438/1095323.jpg"
+		},
+		"_id": "646567dd47b6497d927c0701",
+		"tvmazeId": 44419,
+		"season": 2,
+		"number": 14,
+		"name": "Wolf in the Fold",
+		"runtime": 60,
+		"airdate": "1967-12-22T00:00:00.000Z",
+		"summary": "<p>Kirk takes Scotty to Argelius, a planet renowed for hospitality. Scotty is still recovering from serious injuries accounted to a female member of the crew, so McCoy is concerned he might harbor subconscious resentment toward women. But apparently not; he takes a young woman for a walk through the fog. Kirk and McCoy leave later, and en route to another tavern, hear a high scream. They arrive to find Scotty, bloody knife in hand, standing over the body of the young woman, who has been stabbed dozens of times! They're certain Scotty is innocent despite the evidence, but proving that will require them to discover the actual murderer - and reveal a horrifying truth from history!</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.240Z",
+		"updatedAt": "2023-05-17T23:48:45.240Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/98/247389.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/98/247389.jpg"
+		},
+		"_id": "646567dd47b6497d927c0703",
+		"tvmazeId": 44420,
+		"season": 2,
+		"number": 15,
+		"name": "The Trouble with Tribbles",
+		"runtime": 60,
+		"airdate": "1967-12-29T00:00:00.000Z",
+		"summary": "<p>Under the terms of the Organian Peace Treaty, Sherman's Planet will become a colony of whoever can best develop it. To that end, the Federation intends to ship a large quantity of quadrotriticale to that planet, and Federation Undersecretary Nilz Baris is determined that the grain will arrive, so he orders the manager of Space Station K-9 to issue a distress call! <i>Enterprise</i> responds to discover no emergency; Baris just wants guards for his grain. And then a Klingon ship arrives, seeking shore leave. And Cyrano Jones, an itinerant trader, also arrives, with some odd animals he calls tribbles. Some very hungry, odd animals...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.248Z",
+		"updatedAt": "2023-05-17T23:48:45.248Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/439/1098603.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/439/1098603.jpg"
+		},
+		"_id": "646567dd47b6497d927c0705",
+		"tvmazeId": 44421,
+		"season": 2,
+		"number": 16,
+		"name": "The Gamesters of Triskelion",
+		"runtime": 60,
+		"airdate": "1968-01-05T00:00:00.000Z",
+		"summary": "<p>Kirk, Uhura and Chekov are set to beam down to examine and maintain a communications relay station, when they vanish from the transporter room in a way inconsistent with normal transport! They have been whisked across planetary systems by the mysterious Providers, who gather \"inferior\" beings from all over the galaxy and pit them against each other in blood contests. This activity is the only thing that stimulates the Providers. As the three begin their involuntary training, <i>Enterprise</i> begins following the scant evidence their abductors left behind, trying to locate them.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.250Z",
+		"updatedAt": "2023-05-17T23:48:45.250Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/440/1101992.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/440/1101992.jpg"
+		},
+		"_id": "646567dd47b6497d927c0707",
+		"tvmazeId": 44422,
+		"season": 2,
+		"number": 17,
+		"name": "A Piece of the Action",
+		"runtime": 60,
+		"airdate": "1968-01-12T00:00:00.000Z",
+		"summary": "<p>The <i>Horizon</i> visited the planet Iotia a hundred years ago, long before the Prime Directive forbid interference in pre-warp alien cultures. Beaming down to investigate the damage, Kirk, Spock and McCoy discover a culture run by mobsters! It seems that <i>Horizon</i> left behind a book, \"Chicago Mobs of the Twenties\", and the highly imitative people of Iotia patterned their society after the groups described in its pages. How can <i>Enterprise</i> undo the grievous harm <i>Horizon</i> did to this civilization?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.251Z",
+		"updatedAt": "2023-05-17T23:48:45.251Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/441/1102831.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1102831.jpg"
+		},
+		"_id": "646567dd47b6497d927c0709",
+		"tvmazeId": 44423,
+		"season": 2,
+		"number": 18,
+		"name": "The Immunity Syndrome",
+		"runtime": 60,
+		"airdate": "1968-01-19T00:00:00.000Z",
+		"summary": "<p>Spock senses the crew of <i>Intrepid</i>, a starship crewed solely by Vulcans, die. <i>Enterprise</i> investigates, and discovers a zone of darkness which conceals the hazard: an immense yet single-celled organism which drains energy from anything it encounters, as it did the <i>Intrepid</i> and her crew. And unless they can discover how to destroy it, <i>Enterprise</i> will be next. Worse, there are signs the organism has accumulated sufficient energy to reproduce...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.253Z",
+		"updatedAt": "2023-05-17T23:48:45.253Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/441/1103855.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1103855.jpg"
+		},
+		"_id": "646567dd47b6497d927c070b",
+		"tvmazeId": 44424,
+		"season": 2,
+		"number": 19,
+		"name": "A Private Little War",
+		"runtime": 60,
+		"airdate": "1968-02-02T00:00:00.000Z",
+		"summary": "<p>Kirk returns to a planet he surveyed years ago as a younger officer. There he discovers that the villagers and the hill people are now fighting, because the villagers have developed crude firearms and the idea that they should simply take anything they want from the hill people. Worse, Spock is the victim of a gunshot! Kirk and McCoy return to the surface to investigate more completely, but <i>Enterprise</i> must leave to avoid detection - and then a <i>mugato</i> bites Kirk! He must make contact with the hill people, who number among them a kind of witch doctor called a kanutu, who may be able to help. But that help comes with a price...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.254Z",
+		"updatedAt": "2023-05-17T23:48:45.254Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/441/1103965.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1103965.jpg"
+		},
+		"_id": "646567dd47b6497d927c070d",
+		"tvmazeId": 44425,
+		"season": 2,
+		"number": 20,
+		"name": "Return to Tomorrow",
+		"runtime": 60,
+		"airdate": "1968-02-09T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> responds to odd readings, which lead the crew to a planet similar to Earth, except that it is much older, and a cataclysm stripped its atmosphere away a half million years ago; it has been dead ever since. But from somewhere on that world comes a voice. Something has evidently endured 500,000 years - the last survivors of the civilization that flourished here. And all they want are the bodies of a few humans...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.256Z",
+		"updatedAt": "2023-05-17T23:48:45.256Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/442/1105180.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/442/1105180.jpg"
+		},
+		"_id": "646567dd47b6497d927c070f",
+		"tvmazeId": 44426,
+		"season": 2,
+		"number": 21,
+		"name": "Patterns of Force",
+		"runtime": 60,
+		"airdate": "1968-02-16T00:00:00.000Z",
+		"summary": "<p>Historian and sociologist John Gill has stopped responding to transmissions. He is embedded in the Ekosian population to study it. Investigating, Kirk and Spock discover that Ekos has developed nuclear weapons - an achievement well ahead of where they should be scientifically, based on past probes. And they have modeled their society on Nazi Germany, right down to oppression of their sister planet, Zeon. It seems apparent Gill has contaminated this society, but why? And why Nazi Germany?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.257Z",
+		"updatedAt": "2023-05-17T23:48:45.257Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/443/1107563.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/443/1107563.jpg"
+		},
+		"_id": "646567dd47b6497d927c0711",
+		"tvmazeId": 44427,
+		"season": 2,
+		"number": 22,
+		"name": "By Any Other Name",
+		"runtime": 60,
+		"airdate": "1968-02-23T00:00:00.000Z",
+		"summary": "<p>Kelvans from the Andromeda galaxy have discovered that rising radiation levels will make their galaxy uninhabitable within ten millenia. So they have dispatched generation ships of soldiers to nearby galaxies to see which of them they might conquer. <i>Enterprise</i> encounters such a group when her crew answers a distress call. With the Kelvans' superior technology, they may well be able to conquer the entire Milky Way galaxy!</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.258Z",
+		"updatedAt": "2023-05-17T23:48:45.258Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/443/1109702.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/443/1109702.jpg"
+		},
+		"_id": "646567dd47b6497d927c0713",
+		"tvmazeId": 44428,
+		"season": 2,
+		"number": 23,
+		"name": "The Omega Glory",
+		"runtime": 60,
+		"airdate": "1968-03-01T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> discovers her sister ship, <i>Exeter</i> in orbit around a planet, unresponsive. Kirk, Spock and McCoy beam aboard and discover only empty uniforms mixed with a handful of crystals. Then they find a log - the ship is infected with a deadly plague! Their only chance is to beam down to the planet's surface immediately. There, they discover heartbreaking evidence that <i>Exeter's</i> captain Ronald Tracy has violated the prime directive, up to and including mass murder. But he has what he believes is a good reason - and it depends on McCoy's research into a long ago bacteriological war.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.260Z",
+		"updatedAt": "2023-05-17T23:48:45.260Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/445/1112772.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/445/1112772.jpg"
+		},
+		"_id": "646567dd47b6497d927c0715",
+		"tvmazeId": 44429,
+		"season": 2,
+		"number": 24,
+		"name": "The Ultimate Computer",
+		"runtime": 60,
+		"airdate": "1968-03-08T00:00:00.000Z",
+		"summary": "<p><i>Enterprise</i> is chosen as the testbed for the revolutionary M-5 computer. The machine's inventor, Richard Daystrom, claims it can take control of a starship, freeing men for less dangerous and more rewarding work. It all depends on whether his breakthrough technology, multitronics, is as powerful and capable as he says. After a few exercises, Spock begins to wonder exactly how multitronics works - for the M-5 does not react as computers typically do.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.261Z",
+		"updatedAt": "2023-05-17T23:48:45.261Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/447/1117513.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/447/1117513.jpg"
+		},
+		"_id": "646567dd47b6497d927c0717",
+		"tvmazeId": 44430,
+		"season": 2,
+		"number": 25,
+		"name": "Bread and Circuses",
+		"runtime": 60,
+		"airdate": "1968-03-15T00:00:00.000Z",
+		"summary": "<p>The <i>Enterprise</i> follows the wreckage of the S.S. Beagle to a planet where they discover an Earth-like civilization, except that Rome never fell, and rules a world much like twentieth century America. Intercepted radio transmissions suggest deeper mysteries, so Kirk, Spock and McCoy beam down to investigate, and then find themselves caught between the Roman government and a group of \"sun worshippers\". Proconsul Claudius wants Kirk to beam down his entire crew; the Proconsul is determined that no one will leave this world!</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.263Z",
+		"updatedAt": "2023-05-17T23:48:45.263Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/448/1121263.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/448/1121263.jpg"
+		},
+		"_id": "646567dd47b6497d927c0719",
+		"tvmazeId": 44431,
+		"season": 2,
+		"number": 26,
+		"name": "Assignment: Earth",
+		"runtime": 60,
+		"airdate": "1968-03-29T00:00:00.000Z",
+		"summary": "<p>The Enterprise has used the \"light speed breakaway\" technique to travel to Earth in the year 1968, to study how humans survived the desperate problems of that era. Then, they intercept a man beaming back to Earth from at least a thousand light years away, a technical feat beyond even Federation science! Who is Gary Seven, how did he get access to such advanced technology, and why has he come to Earth? He has a story, but Kirk has trouble believing it. Worse, he has trouble knowing whether he should allow Seven to pursue his agenda, or try to stop him. One of those choices is certain to destroy the future... but which?</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.264Z",
+		"updatedAt": "2023-05-17T23:48:45.264Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/75/188983.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/75/188983.jpg"
+		},
+		"_id": "646567dd47b6497d927c071b",
+		"tvmazeId": 44432,
+		"season": 3,
+		"number": 1,
+		"name": "Spock's Brain",
+		"runtime": 60,
+		"airdate": "1968-09-20T00:00:00.000Z",
+		"summary": "<p>An alien woman materializes on the bridge of the Enterprise and knocks the command crew unconscious. When they come to, they discover that Spock's brain has been stolen and they have to race against time to track her down and recover the brain in order to save Mr. Spock.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.266Z",
+		"updatedAt": "2023-05-17T23:48:45.266Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/449/1124497.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/449/1124497.jpg"
+		},
+		"_id": "646567dd47b6497d927c071d",
+		"tvmazeId": 44433,
+		"season": 3,
+		"number": 2,
+		"name": "The Enterprise Incident",
+		"runtime": 60,
+		"airdate": "1968-09-27T00:00:00.000Z",
+		"summary": "<p>Captain Kirk acts strangely and ends up taking the ship into the Romulan neutral zone where they are surrounded by Romulans, the Romulan commander then takes a interest in Mr. Spock.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.268Z",
+		"updatedAt": "2023-05-17T23:48:45.268Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/450/1126731.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/450/1126731.jpg"
+		},
+		"_id": "646567dd47b6497d927c071f",
+		"tvmazeId": 44434,
+		"season": 3,
+		"number": 3,
+		"name": "The Paradise Syndrome",
+		"runtime": 60,
+		"airdate": "1968-10-04T00:00:00.000Z",
+		"summary": "<p>Mr. Spock must destroy an asteroid threatening a primitive world where lost and amnesiac Captain Kirk has taken a wife.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.281Z",
+		"updatedAt": "2023-05-17T23:48:45.281Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/453/1133511.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/453/1133511.jpg"
+		},
+		"_id": "646567dd47b6497d927c0721",
+		"tvmazeId": 44435,
+		"season": 3,
+		"number": 4,
+		"name": "And the Children Shall Lead",
+		"runtime": 60,
+		"airdate": "1968-10-11T00:00:00.000Z",
+		"summary": "<p>A group of orphaned children under an alien's control take over the minds of the Enterprise crew.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.282Z",
+		"updatedAt": "2023-05-17T23:48:45.282Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/459/1148807.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1148807.jpg"
+		},
+		"_id": "646567dd47b6497d927c0723",
+		"tvmazeId": 44436,
+		"season": 3,
+		"number": 5,
+		"name": "Is There in Truth No Beauty?",
+		"runtime": 60,
+		"airdate": "1968-10-18T00:00:00.000Z",
+		"summary": "<p>Only a jealous scientist can save Spock when he goes mad after seeing a hideous Medusan.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.292Z",
+		"updatedAt": "2023-05-17T23:48:45.292Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/104/262044.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/104/262044.jpg"
+		},
+		"_id": "646567dd47b6497d927c0725",
+		"tvmazeId": 44437,
+		"season": 3,
+		"number": 6,
+		"name": "Spectre of the Gun",
+		"runtime": 60,
+		"airdate": "1968-10-25T00:00:00.000Z",
+		"summary": "<p>Powerful aliens transport the Enterprise officers into an illusionary re-creation of the gunfight at the OK Corral.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.293Z",
+		"updatedAt": "2023-05-17T23:48:45.293Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/76/191337.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/76/191337.jpg"
+		},
+		"_id": "646567dd47b6497d927c0727",
+		"tvmazeId": 44438,
+		"season": 3,
+		"number": 7,
+		"name": "Day of the Dove",
+		"runtime": 60,
+		"airdate": "1968-11-01T00:00:00.000Z",
+		"summary": "<p>An alien which feeds on violence traps Klingons and Enterprise crewman together.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.304Z",
+		"updatedAt": "2023-05-17T23:48:45.304Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/76/191692.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/76/191692.jpg"
+		},
+		"_id": "646567dd47b6497d927c0729",
+		"tvmazeId": 44439,
+		"season": 3,
+		"number": 8,
+		"name": "For the World is Hollow and I Have Touched the Sky",
+		"runtime": 60,
+		"airdate": "1968-11-08T00:00:00.000Z",
+		"summary": "<p>After Dr. McCoy informs Captain Kirk that he is dying, the Enterprise crew discovers a planetoid that is on a collision course with a inhabited world. Kirk, Spock and McCoy beam down and discover it is a populated space ship where most of the inhabitants having no clue they are on a space ship.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.305Z",
+		"updatedAt": "2023-05-17T23:48:45.305Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/77/192692.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/77/192692.jpg"
+		},
+		"_id": "646567dd47b6497d927c072b",
+		"tvmazeId": 44440,
+		"season": 3,
+		"number": 9,
+		"name": "The Tholian Web",
+		"runtime": 60,
+		"airdate": "1968-11-15T00:00:00.000Z",
+		"summary": "<p>Kirk is trapped on a disintegrating star ship and drifts between dimensions while the Tholian's create a energy web around the Enterprise to prevent them from escaping.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.306Z",
+		"updatedAt": "2023-05-17T23:48:45.306Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/77/192695.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/77/192695.jpg"
+		},
+		"_id": "646567dd47b6497d927c072d",
+		"tvmazeId": 44441,
+		"season": 3,
+		"number": 10,
+		"name": "Plato's Stepchildren",
+		"runtime": 60,
+		"airdate": "1968-11-22T00:00:00.000Z",
+		"summary": "<p>Rulers of a culture modeled after Platos Republic kidnap Kirk, Spock and Dr. McCoy.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.308Z",
+		"updatedAt": "2023-05-17T23:48:45.308Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/77/192709.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/77/192709.jpg"
+		},
+		"_id": "646567dd47b6497d927c072f",
+		"tvmazeId": 44442,
+		"season": 3,
+		"number": 11,
+		"name": "Wink of an Eye",
+		"runtime": 60,
+		"airdate": "1968-11-29T00:00:00.000Z",
+		"summary": "<p>The dying Scalosians, invisible to humans, need the Enterprise crew to help repopulate their decimated planet.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.309Z",
+		"updatedAt": "2023-05-17T23:48:45.309Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/77/192710.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/77/192710.jpg"
+		},
+		"_id": "646567dd47b6497d927c0731",
+		"tvmazeId": 44443,
+		"season": 3,
+		"number": 12,
+		"name": "The Empath",
+		"runtime": 60,
+		"airdate": "1968-12-06T00:00:00.000Z",
+		"summary": "<p>After arriving at a outpost to pick up the two members of a science team, Kirk, McCoy and Spock find the team missing. They are then transported to another location by alien beings who use them in a torturous experiment involving a young girl who does not speak.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.311Z",
+		"updatedAt": "2023-05-17T23:48:45.311Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/77/194468.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/77/194468.jpg"
+		},
+		"_id": "646567dd47b6497d927c0733",
+		"tvmazeId": 44444,
+		"season": 3,
+		"number": 13,
+		"name": "Elaan of Troyius",
+		"runtime": 60,
+		"airdate": "1968-12-20T00:00:00.000Z",
+		"summary": "<p>Klingons interfere when the Enterprise is ordered to transport an unwilling royal bride to her wedding in another star system. During the trip, the enterprise is sabotaged.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.312Z",
+		"updatedAt": "2023-05-17T23:48:45.312Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/78/195280.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195280.jpg"
+		},
+		"_id": "646567dd47b6497d927c0735",
+		"tvmazeId": 44445,
+		"season": 3,
+		"number": 14,
+		"name": "Whom Gods Destroy",
+		"runtime": 60,
+		"airdate": "1969-01-03T00:00:00.000Z",
+		"summary": "<p>Inmates gain control of an insane asylum, taking visiting Kirk and Spock prisoner.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.322Z",
+		"updatedAt": "2023-05-17T23:48:45.322Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/78/195432.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195432.jpg"
+		},
+		"_id": "646567dd47b6497d927c0737",
+		"tvmazeId": 44446,
+		"season": 3,
+		"number": 15,
+		"name": "Let That Be Your Last Battlefield",
+		"runtime": 60,
+		"airdate": "1969-01-10T00:00:00.000Z",
+		"summary": "<p>A thousand-year feud between sworn enemies threatens to destroy the <i>Enterprise</i>.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.324Z",
+		"updatedAt": "2023-05-17T23:48:45.324Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/78/195439.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195439.jpg"
+		},
+		"_id": "646567dd47b6497d927c0739",
+		"tvmazeId": 44447,
+		"season": 3,
+		"number": 16,
+		"name": "The Mark of Gideon",
+		"runtime": 60,
+		"airdate": "1969-01-17T00:00:00.000Z",
+		"summary": "<p>Captain Kirk suddenly finds himself on what appears to be the Enterprise, alone except for a beautiful alien woman while on a away mission to the planet Gideon.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.325Z",
+		"updatedAt": "2023-05-17T23:48:45.325Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/78/195860.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195860.jpg"
+		},
+		"_id": "646567dd47b6497d927c073b",
+		"tvmazeId": 44448,
+		"season": 3,
+		"number": 17,
+		"name": "That Which Survives",
+		"runtime": 60,
+		"airdate": "1969-01-24T00:00:00.000Z",
+		"summary": "<p>The Enterprise discovers a planet that defies the conventional theories of planetology, so Kirk, Sulu, McCoy and D'Amato (a geologist) beam down to investigate. As they depart, a mysterious woman appears in the transporter room and attacks the chief there. Then the Enterprise is hurled nearly a thousand light years away! The strange female apparition reappears, and demonstrates that she is a grave threat to both stranded crew and the ship...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.327Z",
+		"updatedAt": "2023-05-17T23:48:45.327Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/78/195861.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195861.jpg"
+		},
+		"_id": "646567dd47b6497d927c073d",
+		"tvmazeId": 44449,
+		"season": 3,
+		"number": 18,
+		"name": "The Lights of Zetar",
+		"runtime": 60,
+		"airdate": "1969-01-31T00:00:00.000Z",
+		"summary": "<p>A mysterious storm has inflicted heavy - perhaps irreparable - damage on the library planetoid Memory Alpha. And it seems to have a curious affiliation with new crewmember Myra Romaine. As the Enterprise pursues the hazard, Romaine falls more under its influence, and the crew learns is is not a storm at all, but a form of life that means to survive at ANY cost.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.329Z",
+		"updatedAt": "2023-05-17T23:48:45.329Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/79/199139.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/79/199139.jpg"
+		},
+		"_id": "646567dd47b6497d927c073f",
+		"tvmazeId": 44450,
+		"season": 3,
+		"number": 19,
+		"name": "Requiem for Methuselah",
+		"runtime": 60,
+		"airdate": "1969-02-14T00:00:00.000Z",
+		"summary": "<p>Rigelian Fever rages about the Enterprise; on a small planet named Holberg 917G, the crew has discovered a source of the only cure, ryetalin. Kirk, Spock and McCoy beam down, and discover the planet is the private property of Flint. At first uncooperative, Flint relents and permits the crew to gather the material. But events soon have them wondering about Flint's real goals, and his mysterious ward, the enchanting Rayna.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.331Z",
+		"updatedAt": "2023-05-17T23:48:45.331Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/79/199454.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/79/199454.jpg"
+		},
+		"_id": "646567dd47b6497d927c0741",
+		"tvmazeId": 44451,
+		"season": 3,
+		"number": 20,
+		"name": "The Way to Eden",
+		"runtime": 60,
+		"airdate": "1969-02-21T00:00:00.000Z",
+		"summary": "<p>The Enterprise intercepts a stolen space yacht, whose thieves destroy it rather than face capture. But they are captured, and revealed as \"counterculture\" individuals looking for a mysterious planet they call Eden. Led by an insane genius, they manage to capture the Enterprise long enough to direct it to Eden, which is located in the Romulan Neutral Zone! And to make their escape, they create a lethal trap for the crew.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.332Z",
+		"updatedAt": "2023-05-17T23:48:45.332Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/79/199792.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/79/199792.jpg"
+		},
+		"_id": "646567dd47b6497d927c0743",
+		"tvmazeId": 44452,
+		"season": 3,
+		"number": 21,
+		"name": "The Cloud Minders",
+		"runtime": 60,
+		"airdate": "1969-02-28T00:00:00.000Z",
+		"summary": "<p>The planet Merek II is gripped by a botanical plague. The only cure is the mineral zeenite, and the only practical source of that is Ardana. But Ardana has a stratified city: the troglytes who labor live in harsh conditions, while philosophers and artists enjoy the beauty of its floating city, Stratos. One among the troglytes, Vanna, means to change this, and plans to exploit the crisis - and Federation representatives Kirk and Spock - to accomplish that.</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.334Z",
+		"updatedAt": "2023-05-17T23:48:45.334Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/80/201273.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/80/201273.jpg"
+		},
+		"_id": "646567dd47b6497d927c0745",
+		"tvmazeId": 44453,
+		"season": 3,
+		"number": 22,
+		"name": "The Savage Curtain",
+		"runtime": 60,
+		"airdate": "1969-03-07T00:00:00.000Z",
+		"summary": "<p>The <i>Enterprise </i>surveys the planet Excalbia. As its surface is the temperature of molten rock, no landing party is possible, so when the orbital survey concludes, Kirk orders the ship to leave. And then... Abraham Lincoln appears, and at the same time a region forms on the planet suitable for human life. Kirk and Spock beam down and discover Yarnek. It seems the Excalbians are struggling to understand the concepts of good and evil; the help themselves they have constructed an experiment: four examplars of good, including Kirk and Spock, will battle four exemplars of evil, notorious figures from history. And if good loses, the <i>Enterprise </i>will be destroyed...</p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.336Z",
+		"updatedAt": "2023-05-17T23:48:45.336Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/81/203726.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/81/203726.jpg"
+		},
+		"_id": "646567dd47b6497d927c0747",
+		"tvmazeId": 44454,
+		"season": 3,
+		"number": 23,
+		"name": "All Our Yesterdays",
+		"runtime": 60,
+		"airdate": "1969-03-14T00:00:00.000Z",
+		"summary": "<p>While trying to locate the missing population of a planet doomed by a coming nova, Kirk, Spock, and McCoy find a mysterious librarian who sends them back into the planet's past. While Spock and McCoy fight for survival in a frigid landscape, Kirk is accused of witchcraft.<br></p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.337Z",
+		"updatedAt": "2023-05-17T23:48:45.337Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/19/48942.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48942.jpg"
+		},
+		"_id": "646567dd47b6497d927c0749",
+		"tvmazeId": 44455,
+		"season": 3,
+		"number": 24,
+		"name": "Turnabout Intruder",
+		"runtime": 60,
+		"airdate": "1969-06-03T00:00:00.000Z",
+		"summary": "<p>Janice Lester, a lover from Kirk's past, uses alien technology to switch her consciousness into his body and vice versa, so that she can take command of the <i>Enterprise</i> and become a Starfleet captain as she always wanted.<br></p>",
+		"type": "regular",
+		"show": "646567db47b6497d927c06aa",
+		"createdAt": "2023-05-17T23:48:45.339Z",
+		"updatedAt": "2023-05-17T23:48:45.339Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/157/394168.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/157/394168.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370ce",
+		"tvmazeId": 1459055,
+		"season": 1,
+		"number": 1,
+		"name": "Celebration",
+		"runtime": 60,
+		"airdate": "2018-06-03T00:00:00.000Z",
+		"summary": "<p>On his 80th birthday, media magnate Logan Roy, whose imminent retirement was thought to be a given, shocks his family by announcing he's staying on indefinitely as CEO of Waystar Royco. The news shatters his son, Kendall, the heir apparent, who's in the midst of negotiating the purchase of a digital-media venture founded by a slick operator named Lawrence. After an impromptu softball game, tempers flare as Logan's other children – Roman, Shiv and Connor – raise objections over Logan's intentions, including his desire to change the way his eventual successor will be chosen.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.338Z",
+		"updatedAt": "2023-05-17T23:58:36.338Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/158/395868.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/158/395868.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370d0",
+		"tvmazeId": 1469523,
+		"season": 1,
+		"number": 2,
+		"name": "Sh*t Show at the F**k Factory",
+		"runtime": 60,
+		"airdate": "2018-06-10T00:00:00.000Z",
+		"summary": "<p>Logan's incapacitation sets off a heated succession debate among his children, as the board rushes to inform the media about leadership contingencies before the stock market opens. Greg is tasked with retrieving important items from the Roy apartment. Kendall makes an impassioned final plea to keep Waystar Royco in the family, and receives sobering news from longtime general counsel Gerri Kellman that dampens a moment of vindication.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.341Z",
+		"updatedAt": "2023-05-17T23:58:36.341Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/158/397206.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/158/397206.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370d2",
+		"tvmazeId": 1469524,
+		"season": 1,
+		"number": 3,
+		"name": "Lifeboats",
+		"runtime": 60,
+		"airdate": "2018-06-17T00:00:00.000Z",
+		"summary": "<p>With Waystar's stock plunging to dangerous lows, Kendall is confronted with a major crisis involving a secret bank debt. Upset with Marcia for pulling rank in the Roy apartment, Shiv decides to enlist an old paramour to conduct a background check on Logan's third wife. Kendall and Roman attend their first big meeting in their new roles, as do Tom and Greg. Kendall tries to convince Rava to give their marriage a second chance, and gets an unexpected reaction to his handling of Waystar from his father.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.343Z",
+		"updatedAt": "2023-05-17T23:58:36.343Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398579.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398579.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370d4",
+		"tvmazeId": 1469525,
+		"season": 1,
+		"number": 4,
+		"name": "Sad Sack Wasp Trap",
+		"runtime": 60,
+		"airdate": "2018-06-24T00:00:00.000Z",
+		"summary": "<p>With the company's annual foundation gala fundraiser approaching, and his dad out of the picture, Kendall polishes up his speech while enlisting an on-air personality from the Waystar's ATV Networks to accompany him. Shiv tries to minimize damage from a sordid photo that threatens a client's political future. Tom inherits a \"virus\" from his predecessor in the parks and cruises division, and shares a disturbing file with Greg. Logan makes a mark on his return to the office. At the benefit, Connor shows why he's better off avoiding stressful situations.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.345Z",
+		"updatedAt": "2023-05-17T23:58:36.345Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398343.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398343.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370d6",
+		"tvmazeId": 1469526,
+		"season": 1,
+		"number": 5,
+		"name": "I Went to Market",
+		"runtime": 60,
+		"airdate": "2018-07-01T00:00:00.000Z",
+		"summary": "<p>After hearing Logan's plan to expand to local TV, Kendall begins to plot a vote of no confidence against his father. Greg drives his ornery grandfather, Ewan , from Canada to New York for a Thanksgiving reunion with Logan . Tom grows increasingly concerned about the terms of his prenuptial agreement with Shiv , and recruits Greg for a clandestine task. The family is surprised by Connor's choice of date at Thanksgiving dinner.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.346Z",
+		"updatedAt": "2023-05-17T23:58:36.346Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398342.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398342.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370d8",
+		"tvmazeId": 1470486,
+		"season": 1,
+		"number": 6,
+		"name": "Which Side Are You On?",
+		"runtime": 60,
+		"airdate": "2018-07-08T00:00:00.000Z",
+		"summary": "<p>With the vote of no confidence against Logan approaching, Roman attempts to sway a neutral board member, while Kendall frantically shores up his \"yea\" votes. Logan arrives in Washington to meet with the president, but worries he's been snubbed following a last-minute cancellation. After successfully thwarting a potential scandal, Tom introduces Greg to fine dining, while Shiv explores her options in D.C.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.348Z",
+		"updatedAt": "2023-05-17T23:58:36.348Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/159/398344.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/159/398344.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370da",
+		"tvmazeId": 1470487,
+		"season": 1,
+		"number": 7,
+		"name": "Austerlitz",
+		"runtime": 60,
+		"airdate": "2018-07-15T00:00:00.000Z",
+		"summary": "<p>In an effort to fix his public image, Logan agrees to a family therapy session at Connor's New Mexico ranch, intending it to double as a publicity stunt. Lying low, Kendall spends time with the locals and finds his sobriety tested. Shiv considers putting herself in a precarious situation when Nate pushes her to join the team of Gil Eavis, a potential presidential candidate who goes against everything her father stands for. As Willa spends more time with his family, Connor makes a hard-to-refuse proposal.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.350Z",
+		"updatedAt": "2023-05-17T23:58:36.350Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/162/405259.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/162/405259.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370dc",
+		"tvmazeId": 1478479,
+		"season": 1,
+		"number": 8,
+		"name": "Prague",
+		"runtime": 60,
+		"airdate": "2018-07-22T00:00:00.000Z",
+		"summary": "<p>Tom has a bachelor's party to remember; Kendall and Roman eye new business opportunities.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.353Z",
+		"updatedAt": "2023-05-17T23:58:36.353Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/163/407534.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/163/407534.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370de",
+		"tvmazeId": 1478480,
+		"season": 1,
+		"number": 9,
+		"name": "Pre-Nuptial",
+		"runtime": 60,
+		"airdate": "2018-07-29T00:00:00.000Z",
+		"summary": "<p>The Roys assemble at an English castle for Shiv and Tom's wedding; Kendall's plans are fast-tracked.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.355Z",
+		"updatedAt": "2023-05-17T23:58:36.355Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/163/409063.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/163/409063.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370e0",
+		"tvmazeId": 1478481,
+		"season": 1,
+		"number": 10,
+		"name": "Nobody Is Ever Missing",
+		"runtime": 60,
+		"airdate": "2018-08-05T00:00:00.000Z",
+		"summary": "<p>Logan finds himself in crisis mode as news of a hostile takeover breaks; Kendall eyes an escape outlet.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.356Z",
+		"updatedAt": "2023-05-17T23:58:36.356Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/207/519858.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/207/519858.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370e2",
+		"tvmazeId": 1660269,
+		"season": 2,
+		"number": 1,
+		"name": "The Summer Palace",
+		"runtime": 60,
+		"airdate": "2019-08-11T00:00:00.000Z",
+		"summary": "<p>Still addled from the events in England, Kendall tries to make amends with his dad for his takeover attempt betrayal. Logan receives some unvarnished advice from his financial banker about the next best move for Waystar Royco. As Tom maneuvers for a new position in the company, Shiv tries to determine whether Logan is playing mind games regarding his successor.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.358Z",
+		"updatedAt": "2023-05-17T23:58:36.358Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/208/521219.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/208/521219.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370e4",
+		"tvmazeId": 1688131,
+		"season": 2,
+		"number": 2,
+		"name": "Vaulter",
+		"runtime": 60,
+		"airdate": "2019-08-18T00:00:00.000Z",
+		"summary": "<p>Roman and Kendall do a \"routine health check\" of a new media brand to help Vaulter to determine the future of the company. Tom tasks Greg with sniffing out waste at ATN, as Greg wonders if the divisive media outlet is the right fit for him. Connor and Willa host a soiree to mark their return to New York. Shiv brings Tom in the loop about her future at Waystar and with Gil's campaign.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.359Z",
+		"updatedAt": "2023-05-17T23:58:36.359Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/522795.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/209/522795.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370e6",
+		"tvmazeId": 1688132,
+		"season": 2,
+		"number": 3,
+		"name": "Hunting",
+		"runtime": 60,
+		"airdate": "2019-08-25T00:00:00.000Z",
+		"summary": "<p>Logan informs his skeptical management team of his plan to make another attempt to acquire Pierce, a rival media company and one of the most respected names in news, and brings back Frank to work on the deal. Convinced the acquisition is a terrible idea, Shiv asks Tom to deliver the message to Logan at a corporate retreat in Hungary. Greg worries his pre-meeting with a Logan biographer puts his standing with the family at risk. Connor's presidential announcement irritates Logan.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.361Z",
+		"updatedAt": "2023-05-17T23:58:36.361Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/209/523750.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/209/523750.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370e8",
+		"tvmazeId": 1688133,
+		"season": 2,
+		"number": 4,
+		"name": "Safe Room",
+		"runtime": 60,
+		"airdate": "2019-09-01T00:00:00.000Z",
+		"summary": "<p>Roman begins a six-week management training program in the Parks division and is irritated about spending so much time with \"normals.\" Logan brings Shiv in for a day at Waystar, raising suspicions with Kendall and Gerri. Connor and Willa attend the funeral of a family friend with a complicated past. Logan and Kendall arrange a covert meeting with PGM CEO Rhea Jarrell, as a controversy surrounding a star anchor leads to a day of chaos at ATN headquarters.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.362Z",
+		"updatedAt": "2023-05-17T23:58:36.362Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/210/526620.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/210/526620.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370ea",
+		"tvmazeId": 1688134,
+		"season": 2,
+		"number": 5,
+		"name": "Tern Haven",
+		"runtime": 60,
+		"airdate": "2019-09-08T00:00:00.000Z",
+		"summary": "<p>Logan attempts to solidify his buyout of PGM at a weekend retreat at the Pierce family home, where Shiv, Roman and Connor veer from their carefully orchestrated roles. As the Pierces question whether an alliance with Waystar Royco will tarnish their legacy, Kendall makes his case to Naomi Pierce during a drug-filled night.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.364Z",
+		"updatedAt": "2023-05-17T23:58:36.364Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/211/528638.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/211/528638.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370ec",
+		"tvmazeId": 1713234,
+		"season": 2,
+		"number": 6,
+		"name": "Argestes",
+		"runtime": 60,
+		"airdate": "2019-09-15T00:00:00.000Z",
+		"summary": "<p>As Logan looks to finalize a deal to buy the Pierce family's papers and TV stations, a threat to the deal arises from an unexpected quarter; Tom worries about ATN's new slogan after learning some distressing news from Greg.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.366Z",
+		"updatedAt": "2023-05-17T23:58:36.366Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/212/531006.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/212/531006.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370ee",
+		"tvmazeId": 1713521,
+		"season": 2,
+		"number": 7,
+		"name": "Return",
+		"runtime": 60,
+		"airdate": "2019-09-22T00:00:00.000Z",
+		"summary": "<p>A trip to the UK finds the Roy kids negotiating with their mother while Logan turns to Rhea for advice. Greg and Tom get spooked by an internal investigation.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.368Z",
+		"updatedAt": "2023-05-17T23:58:36.368Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/213/532862.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/213/532862.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370f0",
+		"tvmazeId": 1713522,
+		"season": 2,
+		"number": 8,
+		"name": "Dundee",
+		"runtime": 60,
+		"airdate": "2019-09-29T00:00:00.000Z",
+		"summary": "<p>The entire Roy clan travels to Logan's hometown of Dundee, Scotland for a celebration of Logan's fifty years in the business. There, Logan reflects on his past and the company's future, while Shiv defiantly looks to her family for support in taking down Rhea. Ewan gives Greg an ultimatum about working at Waystar. Kendall becomes enamored with Jennifer, an actress in Willa's play. A former employee proves difficult to silence, worrying Logan's inner circle.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.370Z",
+		"updatedAt": "2023-05-17T23:58:36.370Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/214/535923.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/214/535923.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370f2",
+		"tvmazeId": 1713523,
+		"season": 2,
+		"number": 9,
+		"name": "DC",
+		"runtime": 60,
+		"airdate": "2019-10-06T00:00:00.000Z",
+		"summary": "<p>With the shareholders meeting imminent and Waystar Royco in a precarious position after a whistleblower makes headlines, Logan, Kendall, Gerri and Tom testify before Congress and face tough questions from a determined Gil Eavis. Shiv speaks candidly to Kira, a victim who is set to be a key witness. In Turkey, Roman's business pitch takes a chilling turn.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.391Z",
+		"updatedAt": "2023-05-17T23:58:36.391Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/215/538092.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/215/538092.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370f4",
+		"tvmazeId": 1713524,
+		"season": 2,
+		"number": 10,
+		"name": "This Is Not For Tears",
+		"runtime": 70,
+		"airdate": "2019-10-13T00:00:00.000Z",
+		"summary": "<p>On the Roys' grand Mediterranean yacht, Logan weighs whether a member of the family, or a top lieutenant, will need to be sacrificed to salvage the company's tarnished reputation. Roman shares his hesitations about a new source of financing, as Kendall suggests a familiar alternative. Shiv proposes taking her open marriage with Tom to another level. Connor finds himself in an unenviable position as reviews of Willa's play roll in.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.393Z",
+		"updatedAt": "2023-05-17T23:58:36.393Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907944.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907944.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370f6",
+		"tvmazeId": 2169791,
+		"season": 3,
+		"number": 1,
+		"name": "Secession",
+		"runtime": 61,
+		"airdate": "2021-10-17T00:00:00.000Z",
+		"summary": "<p>Following his bombshell presser, a righteous Kendall scrambles to find a base of operations, while Logan's team searches for safe harbor.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.394Z",
+		"updatedAt": "2023-05-17T23:58:36.394Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907945.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907945.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370f8",
+		"tvmazeId": 2170885,
+		"season": 3,
+		"number": 2,
+		"name": "Mass in Time of War",
+		"runtime": 63,
+		"airdate": "2021-10-24T00:00:00.000Z",
+		"summary": "<p>Kendall tries to get his siblings, as well as Stewy and Sandi, on his side. Fearing his legal situation, Greg asks Ewan for help.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.396Z",
+		"updatedAt": "2023-05-17T23:58:36.396Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/363/907946.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/363/907946.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370fa",
+		"tvmazeId": 2175513,
+		"season": 3,
+		"number": 3,
+		"name": "The Disruption",
+		"runtime": 60,
+		"airdate": "2021-10-31T00:00:00.000Z",
+		"summary": "<p>With the DOJ at the door, Logan summons his arsenal, while Tom makes a potentially life changing offer. Kendall becomes obsessed with his own takedown.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.398Z",
+		"updatedAt": "2023-05-17T23:58:36.398Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/373/933819.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/373/933819.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370fc",
+		"tvmazeId": 2175514,
+		"season": 3,
+		"number": 4,
+		"name": "Lion in the Meadow",
+		"runtime": 60,
+		"airdate": "2021-11-07T00:00:00.000Z",
+		"summary": "<p>Logan and Kendall have their first meeting together with Josh, a major investor worried about their family feud.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.399Z",
+		"updatedAt": "2023-05-17T23:58:36.399Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/375/938022.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938022.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a5370fe",
+		"tvmazeId": 2175515,
+		"season": 3,
+		"number": 5,
+		"name": "Retired Janitors of Idaho",
+		"runtime": 63,
+		"airdate": "2021-11-14T00:00:00.000Z",
+		"summary": "<p>Kendall and the Waystar team find themselves working together at the annual shareholders' meeting, where Logan's health takes a turn.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.401Z",
+		"updatedAt": "2023-05-17T23:58:36.401Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/376/940274.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/376/940274.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537100",
+		"tvmazeId": 2175516,
+		"season": 3,
+		"number": 6,
+		"name": "What It Takes",
+		"runtime": 61,
+		"airdate": "2021-11-21T00:00:00.000Z",
+		"summary": "<p>Logan and the team heads to Virginia for a conservative political conference, where Roman learns some surprising news.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.403Z",
+		"updatedAt": "2023-05-17T23:58:36.403Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/379/947650.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/379/947650.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537102",
+		"tvmazeId": 2175517,
+		"season": 3,
+		"number": 7,
+		"name": "Too Much Birthday",
+		"runtime": 61,
+		"airdate": "2021-11-28T00:00:00.000Z",
+		"summary": "<p>At Kendall's lavish birthday bash, Shiv and Roman try to arrange a meeting with Lukas Matsson, a tech mogul who recently snubbed Logan.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.405Z",
+		"updatedAt": "2023-05-17T23:58:36.405Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/380/952242.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/380/952242.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537104",
+		"tvmazeId": 2175518,
+		"season": 3,
+		"number": 8,
+		"name": "Chiantishire",
+		"runtime": 67,
+		"airdate": "2021-12-05T00:00:00.000Z",
+		"summary": "<p>At a luxe family wedding in Italy, Roman airs suspicions, Gerri draws a line, and the Waystar team grows concerned about rogue tweets.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.406Z",
+		"updatedAt": "2023-05-17T23:58:36.406Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/957354.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/382/957354.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537106",
+		"tvmazeId": 2215077,
+		"season": 3,
+		"number": 9,
+		"name": "All the Bells Say",
+		"runtime": 67,
+		"airdate": "2021-12-12T00:00:00.000Z",
+		"summary": "<p>Matsson's vision for the GoJo-Waystar relationship leads Shiv and Roman to manage the fallout, while Logan weighs his options.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.407Z",
+		"updatedAt": "2023-05-17T23:58:36.407Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/453/1134830.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/453/1134830.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537108",
+		"tvmazeId": 2479029,
+		"season": 4,
+		"number": 1,
+		"name": "The Munsters",
+		"runtime": 65,
+		"airdate": "2023-03-26T00:00:00.000Z",
+		"summary": "<p>As Kendall, Shiv, and Roman hone their pitch for potential investors in LA, a call from Tom shifts the siblings' focus towards one of their dad's long-coveted companies. Back in NY, Greg's uninvited plus-one raises questions at Logan's birthday party, Connor considers throwing a gargantuan sum at his campaign, and Tom seeks assurances from Logan.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.409Z",
+		"updatedAt": "2023-05-17T23:58:36.409Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/454/1137303.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/454/1137303.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a53710a",
+		"tvmazeId": 2479923,
+		"season": 4,
+		"number": 2,
+		"name": "Rehearsal",
+		"runtime": 60,
+		"airdate": "2023-04-02T00:00:00.000Z",
+		"summary": "<p>After Shiv discovers that Tom is following Logan's playbook, she, Kendall and Roman consider backing Sandi and Stewy's aggressive play on the Matsson deal; Logan gives an impromptu pep talk to the ATN newsroom and outsources a tricky conversation.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.410Z",
+		"updatedAt": "2023-05-17T23:58:36.410Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/455/1139985.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/455/1139985.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a53710c",
+		"tvmazeId": 2479924,
+		"season": 4,
+		"number": 3,
+		"name": "Connor's Wedding",
+		"runtime": 65,
+		"airdate": "2023-04-09T00:00:00.000Z",
+		"summary": "<p>Before heading to Europe to meet with Matsson face-to-face, Logan tasks Roman with implementing an unsavory first step in his strategic refocus. Meanwhile, Connor fixates on minutia at his wedding.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.412Z",
+		"updatedAt": "2023-05-17T23:58:36.412Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/457/1143152.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/457/1143152.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a53710e",
+		"tvmazeId": 2479925,
+		"season": 4,
+		"number": 4,
+		"name": "Honeymoon States",
+		"runtime": 61,
+		"airdate": "2023-04-16T00:00:00.000Z",
+		"summary": "<p>As Roman, Kendall and Shiv navigate a misstep with Matsson, the Waystar team discusses a pivotal recommendation to the board ahead of the GoJo sale; angling for position, Kendall seeks support from Stewy and Hugo.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.413Z",
+		"updatedAt": "2023-05-17T23:58:36.413Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/458/1146375.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/458/1146375.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537110",
+		"tvmazeId": 2479926,
+		"season": 4,
+		"number": 5,
+		"name": "Kill List",
+		"runtime": 62,
+		"airdate": "2023-04-23T00:00:00.000Z",
+		"summary": "<p>After the Waystar team heads to Norway, Shiv, Kendall and Roman consider whether to fight for Logan's crown jewel.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.414Z",
+		"updatedAt": "2023-05-17T23:58:36.414Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/459/1147757.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1147757.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537112",
+		"tvmazeId": 2479927,
+		"season": 4,
+		"number": 6,
+		"name": "Living+",
+		"runtime": 65,
+		"airdate": "2023-04-30T00:00:00.000Z",
+		"summary": "<p>The sale of Waystar Royco to Lukas Matsson edges closer and closer and the prospect of this liquidation causes family division among the Roys, who anticipate what their life will look like once the deal is done.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.417Z",
+		"updatedAt": "2023-05-17T23:58:36.417Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/460/1150001.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/460/1150001.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537114",
+		"tvmazeId": 2479928,
+		"season": 4,
+		"number": 7,
+		"name": "Tailgate Party",
+		"runtime": 65,
+		"airdate": "2023-05-07T00:00:00.000Z",
+		"summary": "<p>Hoping to work the angles on the GoJo deal, Kendall and Roman ask Shiv to invite a political insider to Logan's annual pre-election day party. Later, Connor considers whether to adjust his ambitions after receiving intel from the Mencken team, while Kendall and Roman catch wind of a potentially fortuitous scandal.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.418Z",
+		"updatedAt": "2023-05-17T23:58:36.418Z",
+		"__v": 0
+	},
+	{
+		"image": {
+			"medium": "https://static.tvmaze.com/uploads/images/medium_landscape/460/1151767.jpg",
+			"original": "https://static.tvmaze.com/uploads/images/original_untouched/460/1151767.jpg"
+		},
+		"_id": "64656a2c6aa51bb98a537116",
+		"tvmazeId": 2479929,
+		"season": 4,
+		"number": 8,
+		"name": "America Decides",
+		"runtime": 67,
+		"airdate": "2023-05-14T00:00:00.000Z",
+		"summary": "<p>On election night, Tom tries to manage an increasingly chaotic newsroom, while Kendall, Shiv, and Roman spar over the consequences of the result – for themselves, the company, and the country.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.420Z",
+		"updatedAt": "2023-05-17T23:58:36.420Z",
+		"__v": 0
+	},
+	{
+		"_id": "64656a2c6aa51bb98a537118",
+		"tvmazeId": 2479930,
+		"season": 4,
+		"number": 9,
+		"name": "Church and State",
+		"runtime": 76,
+		"airdate": "2023-05-21T00:00:00.000Z",
+		"summary": "<p>As the family girds themselves for an emotional funeral, Kendall finds himself at odds with Rava… and inopportune news from Jess. Later, Shiv tries to reposition herself within a new political landscape, as Kendall rallies supporters to his side.</p>",
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.421Z",
+		"updatedAt": "2023-05-17T23:58:36.421Z",
+		"__v": 0
+	},
+	{
+		"_id": "64656a2c6aa51bb98a53711a",
+		"tvmazeId": 2479931,
+		"season": 4,
+		"number": 10,
+		"name": "With Open Eyes",
+		"runtime": 90,
+		"airdate": "2023-05-28T00:00:00.000Z",
+		"summary": null,
+		"type": "regular",
+		"show": "64656a296aa51bb98a5370cb",
+		"createdAt": "2023-05-17T23:58:36.423Z",
+		"updatedAt": "2023-05-17T23:58:36.423Z",
+		"__v": 0
+	}
+]

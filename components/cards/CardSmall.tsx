@@ -2,13 +2,9 @@ import { View, Text, Pressable, Image, StyleSheet } from "react-native";
 import React from "react";
 import { Link } from "expo-router";
 import StarRating from "react-native-star-rating";
+import { ICardUser } from "@/constants/types";
 
-interface ICardUser {
-  id: string;
-  name: string;
-  rating: number;
-  avatar: string;
-}
+
 
 export default function CardSmall({ link, image, user }: { link: string; image: string; user: ICardUser | null }) {
   return (

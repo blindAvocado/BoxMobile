@@ -16,6 +16,7 @@
     "@expo/vector-icons": "^13.0.0",
     "@react-navigation/drawer": "^6.6.6",
     "@react-navigation/native": "^6.0.2",
+    "deprecated-react-native-prop-types": "^5.0.0",
     "expo": "~49.0.15",
     "expo-font": "~11.4.0",
     "expo-linking": "~5.0.2",
@@ -34,7 +35,8 @@
     "react-native-screens": "~3.22.0",
     "react-native-star-rating": "^1.1.0",
     "react-native-tab-view": "^3.5.2",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "expo-linear-gradient": "~12.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

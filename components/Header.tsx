@@ -12,12 +12,14 @@ export default function Header({
   navigation,
   options,
   isDrawer,
+  isTransparent,
 }: {
   layout?: Layout;
   route?: RouteProp<{}>;
   navigation: DrawerNavigationProp<{}>;
   options: DrawerNavigationOptions;
   isDrawer: boolean;
+  isTransparent?: boolean;
 }) {
   const insets = useSafeAreaInsets();
 
@@ -37,9 +39,17 @@ export default function Header({
     }
   };
 
+  const bgColor = () => {
+    if (isTransparent) {
+      return "transparent";
+    } else {
+      return "#484848";
+    }
+  };
+
   return (
-    <View style={{ paddingTop: insets.top, backgroundColor: "#484848" }}>
-      <View style={styles.container}>
+    <View style={{ paddingTop: insets.top, backgroundColor: bgColor() }}>
+      <View style={{...styles.container, backgroundColor: bgColor() }}>
         {leftBtn()}
         <Text style={styles.title}>{options.title}</Text>
       </View>
