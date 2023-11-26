@@ -52,7 +52,7 @@ function RootLayoutNav() {
   return (
     <Stack
       screenOptions={{
-        animation: "fade",
+        animation: "fade_from_bottom",
         animationTypeForReplace: "push",
       }}
     >

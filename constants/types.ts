@@ -15,7 +15,7 @@ export interface ICardUser {
   avatar: string;
 }
 
-enum EShowStatus {
+export enum EShowStatus {
   "Running", "Ended"
 }
 
@@ -37,7 +37,7 @@ export interface IShow {
   thetvdb: string,
   status: EShowStatus,
   country: string,
-  episodes: string[];
+  episodes: IEpisode[];
 };
 
 export interface IEpisode {

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "user1",
+    "name": "D4ny_R3tro",
+    "rating": 4.5,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small/default-avatar-photo-placeholder-profile-icon-vector.jpg"
+  },
+  {
+    "id": "user2",
+    "name": "chantines",
+    "rating": 5,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small/default-avatar-photo-placeholder-profile-icon-vector.jpg"
+  },
+  {
+    "id": "user3",
+    "name": "chantines",
+    "rating": 5,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small/default-avatar-photo-placeholder-profile-icon-vector.jpg"
+  },
+  {
+    "id": "user4",
+    "name": "chantines",
+    "rating": 5,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small/default-avatar-photo-placeholder-profile-icon-vector.jpg"
+  },
+  {
+    "id": "user5",
+    "name": "chantines",
+    "rating": 5,
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/003/337/584/small/default-avatar-photo-placeholder-profile-icon-vector.jpg"
+  }
+]
