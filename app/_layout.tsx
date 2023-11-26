@@ -21,6 +21,14 @@ SplashScreen.preventAutoHideAsync();
 export default function RootLayout() {
   const [loaded, error] = useFonts({
     SpaceMono: require("../assets/fonts/SpaceMono-Regular.ttf"),
+    InterRegular: require("../assets/fonts/Inter-Regular.ttf"),
+    InterMedium: require("../assets/fonts/Inter-Medium.ttf"),
+    InterBold: require("../assets/fonts/Inter-Bold.ttf"),
+    NetflixSansThin: require("../assets/fonts/NetflixSansThin.ttf"),
+    NetflixSansLight: require("../assets/fonts/NetflixSansLight.ttf"),
+    NetflixSansRegular: require("../assets/fonts/NetflixSansRegular.ttf"),
+    NetflixSansMedium: require("../assets/fonts/NetflixSansMedium.ttf"),
+    NetflixSansBold: require("../assets/fonts/NetflixSansBold.ttf"),
     ...FontAwesome.font,
   });
 
@@ -47,10 +55,12 @@ function RootLayoutNav() {
     <Stack
       screenOptions={{
         animation: "fade",
+        animationTypeForReplace: 'push'
       }}
     >
       <Stack.Screen name="(drawer)" options={{ headerShown: false }} />
-      <Stack.Screen name="show" />
+      {/* <Stack.Screen name="settings" options={{ headerShown: false }} /> */}
+      <Stack.Screen name="show"/>
     </Stack>
   );
 }
