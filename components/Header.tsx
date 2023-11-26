@@ -31,7 +31,7 @@ export default function Header({
     } else if (!isDrawer && navigation.canGoBack()) {
       return (
         <Pressable onPress={() => navigation.goBack()} style={styles.leftChevron}>
-          <FontAwesome name="chevron-left" size={16} color="#fff" />
+          <FontAwesome name="chevron-left" size={20} color="#fff" />
         </Pressable>
       );
     }
@@ -57,17 +57,23 @@ const styles = StyleSheet.create({
     paddingHorizontal: 15,
   },
   leftChevron: {
-    marginLeft: 5,
-    marginRight: 30,
+    marginLeft: 0,
+    marginRight: 10,
     display: "flex",
+    flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
+    justifyContent: "flex-start",
+    width: 40,
+    height: 24,
   },
   leftButton: {
-    marginRight: 30,
+    marginRight: 10,
     display: "flex",
+    flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
+    justifyContent: "flex-start",
+    width: 40,
+    height: 24,
   },
 
   title: {

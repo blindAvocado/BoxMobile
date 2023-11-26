@@ -1,14 +1,26 @@
-import React, { useRef, useState } from "react";
-import { View, Text, TouchableOpacity, StyleSheet, useWindowDimensions } from "react-native";
-import { TabView, SceneMap } from "react-native-tab-view";
+import React, { useMemo, useRef, useState } from "react";
+import { View, StyleSheet, useWindowDimensions } from "react-native";
+import { TabView, TabBar } from "react-native-tab-view";
 import { RectButton, ScrollView } from "react-native-gesture-handler";
-import { Link } from "expo-router";
-import Drawer from "expo-router/drawer";
-import Header from "../../../components/Header";
+import InfoBlock from "@/components/InfoBlock";
+import popularWeek from "@/assets/data/popularShows.json";
+import popularShowsUser from "@/assets/data/popularShowsUsers.json";
 
-const FirstRoute = () => <View style={{ flex: 1, backgroundColor: "#ff4081" }} />;
+const PopularShows = () => {
+  const thisWeek = useMemo(() => popularWeek as any, []);
+  const newRatings = useMemo(() => popularShowsUser as any, []);
 
-const SecondRoute = () => <View style={{ flex: 1, backgroundColor: "#673ab7" }} />;
+  return (
+    <View style={{ backgroundColor: "#484848", flex: 1, paddingVertical: 10 }}>
+      <ScrollView contentContainerStyle={styles.blocksWrapper}>
+        <InfoBlock title="Популярное на этой неделе" items={thisWeek} />
+        <InfoBlock title="Новые оценки друзей" items={newRatings} />
+      </ScrollView>
+    </View>
+  );
+};
+
+const PopularLists = () => <View style={{ flex: 1, backgroundColor: "#673ab7" }} />;
 
 export default function PopularPage() {
   const layout = useWindowDimensions();
@@ -16,65 +28,47 @@ export default function PopularPage() {
   const itemsRef = useRef<Array<RectButton>>([]);
   const [index, setIndex] = useState(0);
   const [routes] = useState([
-    { key: "first", title: "First" },
-    { key: "second", title: "Second" },
+    { key: "shows", title: "Сериалы" },
+    { key: "lists", title: "Списки" },
+    { key: "comments", title: "Комментарии" },
+    { key: "news", title: "Новости" },
   ]);
 
+  const renderTabBar = (props) => {
+    return (
+      <TabBar
+        {...props}
+        activeColor="#FFF"
+        pressColor="rgba(255,255,255,0.3)"
+        indicatorStyle={{ backgroundColor: "#FFC107", height: 3 }}
+        style={styles.tabContainer}
+        tabStyle={{ paddingVertical: 0, paddingHorizontal: 5, width: "auto" }}
+        labelStyle={styles.tabItemText}
+        scrollEnabled={true}
+      />
+    );
+  };
+
   return (
-    // <View>
-    //   <Drawer.Screen
-    //     options={{
-    //       title: "Популярное123",
-    //       headerShown: true,
-    //       header: (props) => <Header {...props} isDrawer={true} />,
-    //     }}
-    //   />
-    //   <View style={styles.tabWrapper}>
-    //     <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.tabContainer}>
-    //       <View style={styles.tabItemActive}>
-    //         <RectButton style={styles.tabBtn} rippleColor="rgba(255,255,255,0.5)">
-    //           <Text style={styles.tabItemText}>Сериалы</Text>
-    //         </RectButton>
-    //       </View>
-
-    //       <View style={styles.tabItem}>
-    //         <RectButton style={styles.tabBtn} rippleColor="rgba(255,255,255,0.5)">
-    //           <Text style={styles.tabItemText}>Списки</Text>
-    //         </RectButton>
-    //       </View>
-
-    //       <View style={styles.tabItem}>
-    //         <RectButton style={styles.tabBtn} rippleColor="rgba(255,255,255,0.5)">
-    //           <Text style={styles.tabItemText}>Комментарии</Text>
-    //         </RectButton>
-    //       </View>
-
-    //       <View style={styles.tabItem}>
-    //         <RectButton style={styles.tabBtn} rippleColor="rgba(255,255,255,0.5)">
-    //           <Text style={styles.tabItemText}>Новости</Text>
-    //         </RectButton>
-    //       </View>
-    //     </ScrollView>
-    //   </View>
-    //   <View>
-    //     <Text>PopularPage</Text>
-    //     <Link href={"/show/"}>Ссылка на Сериал</Link>
-    //   </View>
-    // </View>
     <TabView
       navigationState={{ index, routes }}
       renderScene={({ route }) => {
         switch (route.key) {
-          case "first":
-            return FirstRoute();
-          case "second":
-            return SecondRoute();
+          case "shows":
+            return PopularShows();
+          case "lists":
+            return PopularLists();
+          case "comments":
+            return PopularLists();
+          case "news":
+            return PopularLists();
           default:
             return null;
         }
       }}
       onIndexChange={setIndex}
       initialLayout={{ width: layout.width }}
+      renderTabBar={renderTabBar}
     />
   );
 }
@@ -86,24 +80,18 @@ const styles = StyleSheet.create({
   tabContainer: {
     backgroundColor: "#484848",
   },
-  tabItem: {
-    borderBottomWidth: 0,
-    borderBottomColor: "transparent",
-    borderStyle: "solid",
-  },
-  tabItemActive: {
-    borderBottomWidth: 2,
-    borderBottomColor: "#FFC107",
-    borderStyle: "solid",
-  },
   tabBtn: {
     paddingHorizontal: 12,
     paddingVertical: 13,
   },
   tabItemText: {
+    paddingHorizontal: 8,
     fontFamily: "InterRegular",
     fontSize: 15,
     color: "#fff",
     textTransform: "uppercase",
   },
+  blocksWrapper: {
+    gap: 20
+  }
 });
