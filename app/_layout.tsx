@@ -58,6 +58,7 @@ function RootLayoutNav() {
     >
       <Stack.Screen name="(drawer)" options={{ headerShown: false }} />
       <Stack.Screen name="show" options={{ headerShown: false }} />
+      <Stack.Screen name="episode" options={{ headerShown: false }} />
       <Stack.Screen name="list" options={{ headerShown: false }} />
     </Stack>
   );

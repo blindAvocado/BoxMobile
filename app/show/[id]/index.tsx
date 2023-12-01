@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useLayoutEffect, useState } from "react";
 import { View, Text, StyleSheet, Image, Pressable } from "react-native";
-import Animated from "react-native-reanimated";
+import Animated, { interpolate, useAnimatedRef, useAnimatedStyle, useScrollViewOffset } from "react-native-reanimated";
 import { useLocalSearchParams } from "expo-router/src/hooks";
 import StarRating from "react-native-star-rating";
 import { declination, normalizeAirDate, removeHtml, translateCountry, translateGenres } from "@/utils/helpers";
@@ -11,12 +11,40 @@ import UserSlider from "@/components/UserSlider";
 import showsData from "@/assets/data/shows.json";
 import friendsRatings from "@/assets/data/showFriendsRatings.json";
 import EpisodesList from "@/components/EpisodesList";
+import { useNavigation } from "expo-router";
+import Header from "@/components/Header";
+
+const IMG_HEIGHT = 250;
 
 export default function ShowPage() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const show: IShow = (showsData as any[]).find((item) => item._id === id);
+  const scrollRef = useAnimatedRef<Animated.ScrollView>();
+  const navigation = useNavigation();
 
   const [rating, setRating] = useState(0);
+
+  const scrollOffset = useScrollViewOffset(scrollRef);
+
+  useLayoutEffect(() => {
+    navigation.setOptions({
+      header: (props: any) => <Header {...props} isDrawer={false} isTransparent scroll={scrollOffset} />,
+    });
+  }, [scrollOffset.value]);
+
+  const imageAnimatedStyle = useAnimatedStyle(() => {
+    return {
+      transform: [
+        {
+          translateY: interpolate(
+            scrollOffset.value,
+            [-IMG_HEIGHT, 0, IMG_HEIGHT],
+            [-IMG_HEIGHT / 2, 0, IMG_HEIGHT * 0.75]
+          ),
+        },
+      ],
+    };
+  });
 
   const getShowStatus = () => {
     let status = "DEAD",
@@ -47,7 +75,7 @@ export default function ShowPage() {
   };
 
   const getSeasonsEpisodes = () => {
-    let seasons = 3;
+    let seasons = show.episodes[show.episodes.length - 1].season;
     let res = `${declination(seasons, ["сезон", "сезона", "сезонов"])} • ${declination(show.episodes.length, [
       "серия",
       "серии",
@@ -107,9 +135,9 @@ export default function ShowPage() {
 
   return (
     <View style={styles.container}>
-      <Animated.ScrollView>
-        <Animated.Image source={{ uri: show.image.original }} style={styles.headerBackdrop} />
-        <View>
+      <Animated.ScrollView ref={scrollRef} contentContainerStyle={{ paddingBottom: 100 }} scrollEventThrottle={16} keyboardShouldPersistTaps='handled'>
+        <Animated.Image source={{ uri: show.image.original }} style={[styles.headerBackdrop, imageAnimatedStyle]} />
+        <View style={styles.wrapper}>
           <View style={styles.head}>
             <View style={styles.headInfo}>
               <Text style={styles.headTitle}>{show.title}</Text>
@@ -183,7 +211,7 @@ export default function ShowPage() {
           {friendsRatings ? (
             <UserSlider title="Оценки друзей" users={friendsRatings} style={{ marginTop: -1 }} />
           ) : null}
-          <EpisodesList episodes={show.episodes}/>
+          <EpisodesList episodes={show.episodes} />
         </View>
       </Animated.ScrollView>
     </View>
@@ -191,9 +219,16 @@ export default function ShowPage() {
 }
 
 const styles = StyleSheet.create({
+  header: {
+    backgroundColor: "#262626",
+    height: 100
+  },
   container: {
     flex: 1,
     position: "relative",
+    backgroundColor: "#262626",
+  },
+  wrapper: {
     backgroundColor: "#262626",
   },
   headerBackdrop: {
