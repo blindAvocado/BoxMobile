@@ -110,16 +110,15 @@ export default function EpisodePage() {
         </View>
         <View style={styles.wrapper}>
           <Link href={`/show/${episode.show}`} asChild>
-            <View style={styles.episodeTitleWrapper}>
-              <Pressable
-                android_ripple={{
-                  color: "rgba(255, 255, 255, 0.5)",
-                  foreground: true,
-                }}
-              >
-                <Text style={styles.episodeTitle}>{getShowTitle()}</Text>
-              </Pressable>
-            </View>
+            <Pressable
+              style={styles.episodeTitleWrapper}
+              android_ripple={{
+                color: "rgba(255, 255, 255, 0.5)",
+                foreground: true,
+              }}
+            >
+              <Text style={styles.episodeTitle}>{getShowTitle()}</Text>
+            </Pressable>
           </Link>
           <View style={styles.ratingContainer}>
             <View style={styles.userActions}>
