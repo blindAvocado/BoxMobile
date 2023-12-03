@@ -38,7 +38,8 @@
     "react-native-svg": "13.9.0",
     "react-native-svg-transformer": "^1.1.0",
     "react-native-tab-view": "^3.5.2",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "@react-native-masked-view/masked-view": "0.2.9"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
