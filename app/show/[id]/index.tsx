@@ -1,4 +1,4 @@
-import React, { useLayoutEffect, useState } from "react";
+import React, { useEffect, useLayoutEffect, useState } from "react";
 import { View, Text, StyleSheet, Image, Pressable } from "react-native";
 import Animated, { interpolate, useAnimatedRef, useAnimatedStyle, useScrollViewOffset } from "react-native-reanimated";
 import { useLocalSearchParams } from "expo-router/src/hooks";
@@ -18,11 +18,12 @@ const IMG_HEIGHT = 250;
 
 export default function ShowPage() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const show: IShow = (showsData as any[]).find((item) => item._id === id);
+  // const show: IShow = (showsData as any[]).find((item) => item._id === id);
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
   const navigation = useNavigation();
 
   const [rating, setRating] = useState(0);
+  const [show, setShow] = useState<IShow>((showsData as any[]).find((item) => item._id === id));
 
   const scrollOffset = useScrollViewOffset(scrollRef);
 
@@ -31,6 +32,10 @@ export default function ShowPage() {
       header: (props: any) => <Header {...props} isDrawer={false} isTransparent scroll={scrollOffset} />,
     });
   }, [scrollOffset.value]);
+
+  useEffect(() => {
+    setShow((showsData as any[]).find((item) => item._id === id));
+  }, [id]);
 
   const imageAnimatedStyle = useAnimatedStyle(() => {
     return {
@@ -135,7 +140,12 @@ export default function ShowPage() {
 
   return (
     <View style={styles.container}>
-      <Animated.ScrollView ref={scrollRef} contentContainerStyle={{ paddingBottom: 100 }} scrollEventThrottle={16} keyboardShouldPersistTaps='handled'>
+      <Animated.ScrollView
+        ref={scrollRef}
+        contentContainerStyle={{ paddingBottom: 100 }}
+        scrollEventThrottle={16}
+        keyboardShouldPersistTaps="handled"
+      >
         <Animated.Image source={{ uri: show.image.original }} style={[styles.headerBackdrop, imageAnimatedStyle]} />
         <View style={styles.wrapper}>
           <View style={styles.head}>
@@ -221,7 +231,7 @@ export default function ShowPage() {
 const styles = StyleSheet.create({
   header: {
     backgroundColor: "#262626",
-    height: 100
+    height: 100,
   },
   container: {
     flex: 1,

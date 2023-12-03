@@ -1,0 +1,26 @@
+[
+  {
+    "episode": {
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/377/944768.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/377/944768.jpg"
+      },
+      "_id": "64654d809bacf8a9cc590c24",
+      "tvmazeId": 11334,
+      "season": 1,
+      "number": 1,
+      "name": "Pilot",
+      "runtime": 90,
+      "airdate": "1990-04-08T00:00:00.000Z",
+      "summary": "<p>The small northwest town of Twin Peaks, Washington is shaken up when the body of the Homecoming Queen, Laura Palmer, is discovered washed up on a riverbank, wrapped in plastic.</p>",
+      "type": "regular",
+      "show": "64654d809bacf8a9cc590c21",
+      "createdAt": "2023-05-17T21:56:16.645Z",
+      "updatedAt": "2023-05-17T21:56:16.645Z",
+      "__v": 0
+    },
+    "rating": 0,
+    "isFavorite": false,
+    "_id": "64664e54393d7a5c79d62646"
+  }
+]

@@ -49,6 +49,10 @@ export default function EpisodesList({ episodes }: { episodes: IEpisode[] }) {
     onSeasonChanged();
   }, [season]);
 
+  useEffect(() => {
+    onSeasonChanged();
+  }, []);
+
   return (
     <View style={styles.container}>
       <View style={styles.headerContainer}>
@@ -81,7 +85,6 @@ export default function EpisodesList({ episodes }: { episodes: IEpisode[] }) {
         </ScrollView>
       </View>
       <View style={styles.episodesContainer}>
-        {/* <FlatList renderItem={renderEpisodeRow} ref={episodesListRef} data={loading ? [] : episodesList} /> */}
         {episodesList.map((item, i) => (
           <Animated.View key={item._id} entering={FadeInRight} exiting={FadeOutLeft} style={styles.episodeWrapper}>
             <Link href={`/episode/${item._id}`} key={item._id} asChild>
@@ -200,6 +203,6 @@ const styles = StyleSheet.create({
     color: "#CDCDCD",
   },
   episodeCheck: {
-    marginLeft: "auto"
-  }
+    marginLeft: "auto",
+  },
 });
