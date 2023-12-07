@@ -14,8 +14,11 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-masked-view/masked-view": "0.2.9",
     "@react-navigation/drawer": "^6.6.6",
     "@react-navigation/native": "^6.0.2",
+    "axios": "^1.6.2",
     "deprecated-react-native-prop-types": "^5.0.0",
     "expo": "~49.0.15",
     "expo-font": "~11.4.0",
@@ -39,7 +42,7 @@
     "react-native-svg-transformer": "^1.1.0",
     "react-native-tab-view": "^3.5.2",
     "react-native-web": "~0.19.6",
-    "@react-native-masked-view/masked-view": "0.2.9"
+    "expo-secure-store": "~12.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

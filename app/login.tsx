@@ -35,7 +35,10 @@ export default function LoginPage() {
         <Text style={styles.formTitle}>Войти</Text>
         <View style={styles.form}>
           <View style={{ overflow: "hidden", borderRadius: 15 }}>
-            <Pressable style={styles.input} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
+            <Pressable
+              style={[styles.input, errors.username ? { borderColor: "red" } : null]}
+              android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}
+            >
               <TextInput
                 style={styles.inputField}
                 keyboardType="web-search"
@@ -48,7 +51,7 @@ export default function LoginPage() {
             </Pressable>
           </View>
           <View style={{ overflow: "hidden", borderRadius: 15 }}>
-            <Pressable style={styles.input} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
+            <Pressable style={[styles.input, errors.password ? { borderColor: "red" } : null]} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
               <TextInput
                 placeholder="Пароль"
                 placeholderTextColor={"gray"}
@@ -95,7 +98,7 @@ export default function LoginPage() {
         <Text style={styles.formTitle}>Создать аккаунт</Text>
         <View style={styles.form}>
           <View style={{ overflow: "hidden", borderRadius: 15 }}>
-            <Pressable style={styles.input} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
+            <Pressable style={[styles.input, errors.username ? { borderColor: "red" } : null]} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
               <TextInput
                 style={styles.inputField}
                 keyboardType="web-search"
@@ -108,7 +111,7 @@ export default function LoginPage() {
             </Pressable>
           </View>
           <View style={{ overflow: "hidden", borderRadius: 15 }}>
-            <Pressable style={styles.input} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
+            <Pressable style={[styles.input, errors.email ? { borderColor: "red" } : null]} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
               <TextInput
                 style={styles.inputField}
                 keyboardType="web-search"
@@ -121,7 +124,7 @@ export default function LoginPage() {
             </Pressable>
           </View>
           <View style={{ overflow: "hidden", borderRadius: 15 }}>
-            <Pressable style={styles.input} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
+            <Pressable style={[styles.input, errors.password ? { borderColor: "red" } : null]} android_ripple={{ color: "rgba(255, 255, 255, 0.2)", foreground: false }}>
               <TextInput
                 placeholder="Пароль"
                 placeholderTextColor={"gray"}
@@ -192,7 +195,7 @@ export default function LoginPage() {
       setEmail("");
       setPassword("");
       setErrors({});
-      router.replace("/(drawer)/popular")
+      router.replace("/(drawer)/popular");
     }
   };
 

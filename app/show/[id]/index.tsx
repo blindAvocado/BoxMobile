@@ -1,5 +1,5 @@
 import React, { useEffect, useLayoutEffect, useState } from "react";
-import { View, Text, StyleSheet, Image, Pressable } from "react-native";
+import { View, Text, StyleSheet, Image, Pressable, Modal } from "react-native";
 import Animated, { interpolate, useAnimatedRef, useAnimatedStyle, useScrollViewOffset } from "react-native-reanimated";
 import { useLocalSearchParams } from "expo-router/src/hooks";
 import StarRating from "react-native-star-rating";
@@ -13,6 +13,7 @@ import friendsRatings from "@/assets/data/showFriendsRatings.json";
 import EpisodesList from "@/components/EpisodesList";
 import { useNavigation } from "expo-router";
 import Header from "@/components/Header";
+import Colors from "@/constants/Colors";
 
 const IMG_HEIGHT = 250;
 
@@ -22,8 +23,11 @@ export default function ShowPage() {
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
   const navigation = useNavigation();
 
+  const [statusModalVisible, setStatusModalVisible] = useState(false);
   const [rating, setRating] = useState(0);
   const [show, setShow] = useState<IShow>((showsData as any[]).find((item) => item._id === id));
+
+  const [watchStatus, setWatchStatus] = useState(0);
 
   const scrollOffset = useScrollViewOffset(scrollRef);
 
@@ -138,8 +142,96 @@ export default function ShowPage() {
     );
   };
 
+  const getWatchStatus = () => {
+    switch (watchStatus) {
+      case 0:
+        return "Смотрю";
+      case 1:
+        return "Буду";
+      case 2:
+        return "Перестал";
+      case 3:
+        return "Не смотрю";
+    }
+  }
+
   return (
     <View style={styles.container}>
+      <Modal
+        animationType="slide"
+        transparent={true}
+        visible={statusModalVisible}
+        onRequestClose={() => setStatusModalVisible(false)}
+      >
+        <Pressable style={styles.modalContainer} onPressOut={() => setStatusModalVisible(false)}>
+          <View style={styles.modalWrapper}>
+            <View
+              style={{
+                overflow: "hidden",
+                borderRadius: 40,
+              }}
+            >
+              <Pressable
+                style={[styles.modalStatusBtn, watchStatus === 0 ? styles.modalStatusBtnActive : null]}
+                android_ripple={{
+                  color: "rgba(255, 255, 255, 0.5)",
+                }}
+                onPress={() => {setWatchStatus(0), setStatusModalVisible(false)}}
+              >
+                <Text style={[styles.modalStatusText, watchStatus === 0 ? styles.modalStatusTextActive : null]}>Смотрю</Text>
+              </Pressable>
+            </View>
+            <View
+              style={{
+                overflow: "hidden",
+                borderRadius: 40,
+              }}
+            >
+              <Pressable
+                style={[styles.modalStatusBtn, watchStatus === 1 ? styles.modalStatusBtnActive : null]}
+                android_ripple={{
+                  color: "rgba(255, 255, 255, 0.5)",
+                }}
+                onPress={() => {setWatchStatus(1), setStatusModalVisible(false)}}
+              >
+                <Text style={[styles.modalStatusText, watchStatus === 1 ? styles.modalStatusTextActive : null]}>Буду</Text>
+              </Pressable>
+            </View>
+            <View
+              style={{
+                overflow: "hidden",
+                borderRadius: 40,
+              }}
+            >
+              <Pressable
+                style={[styles.modalStatusBtn, watchStatus === 2 ? styles.modalStatusBtnActive : null]}
+                android_ripple={{
+                  color: "rgba(255, 255, 255, 0.5)",
+                }}
+                onPress={() => {setWatchStatus(2), setStatusModalVisible(false)}}
+              >
+                <Text style={[styles.modalStatusText, watchStatus === 2 ? styles.modalStatusTextActive : null]}>Перестал</Text>
+              </Pressable>
+            </View>
+            <View
+              style={{
+                overflow: "hidden",
+                borderRadius: 40,
+              }}
+            >
+              <Pressable
+                style={[styles.modalStatusBtn, watchStatus === 3 ? styles.modalStatusBtnActive : null]}
+                android_ripple={{
+                  color: "rgba(255, 255, 255, 0.5)",
+                }}
+                onPress={() => {setWatchStatus(3), setStatusModalVisible(false)}}
+              >
+                <Text style={[styles.modalStatusText, watchStatus === 3 ? styles.modalStatusTextActive : null]}>Не смотрю</Text>
+              </Pressable>
+            </View>
+          </View>
+        </Pressable>
+      </Modal>
       <Animated.ScrollView
         ref={scrollRef}
         contentContainerStyle={{ paddingBottom: 100 }}
@@ -158,7 +250,7 @@ export default function ShowPage() {
               {getSeasonsEpisodes()}
               <View
                 style={{
-                  width: 100,
+                  maxWidth: 300,
                   height: "auto",
                   display: "flex",
                   flexDirection: "row",
@@ -174,8 +266,9 @@ export default function ShowPage() {
                   android_ripple={{
                     color: "rgba(255, 255, 255, 0.5)",
                   }}
+                  onPress={() => setStatusModalVisible(true)}
                 >
-                  <Text style={styles.watchStatusText}>Смотрю</Text>
+                  <Text style={styles.watchStatusText}>{getWatchStatus()}</Text>
                 </Pressable>
               </View>
             </View>
@@ -286,7 +379,7 @@ const styles = StyleSheet.create({
     borderColor: "white",
     borderWidth: 1,
     borderRadius: 40,
-    width: 100,
+    maxWidth: 300,
     display: "flex",
     flexDirection: "row",
     alignItems: "center",
@@ -378,5 +471,53 @@ const styles = StyleSheet.create({
     fontSize: 15,
     fontFamily: "NetflixSansLight",
     color: "white",
+  },
+  modalContainer: {
+    flex: 1,
+    backgroundColor: "rgba(0,0,0,0.1)",
+    marginTop: -10,
+    justifyContent: "flex-end",
+    alignItems: "center",
+  },
+  modalWrapper: {
+    backgroundColor: "#151515",
+    width: "80%",
+    gap: 10,
+    marginBottom: 50,
+    borderRadius: 20,
+    padding: 20,
+    elevation: 10,
+  },
+  modalStatusBtn: {
+    width: "100%",
+    alignItems: "center",
+    justifyContent: "center",
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 30,
+    backgroundColor: Colors.background.dark,
+    borderColor: "transparent",
+    borderWidth: 1,
+  },
+  modalStatusBtnActive: {
+    width: "100%",
+    alignItems: "center",
+    justifyContent: "center",
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 30,
+    backgroundColor: "#302402",
+    borderColor: "#FFC107",
+    borderWidth: 1,
+  },
+  modalStatusText: {
+    fontFamily: "NetflixSansMedium",
+    color: "white",
+    fontSize: 20,
+  },
+  modalStatusTextActive: {
+    fontFamily: "NetflixSansMedium",
+    color: Colors.accent.base,
+    fontSize: 20,
   },
 });
